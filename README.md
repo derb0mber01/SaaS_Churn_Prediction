@@ -8,11 +8,7 @@ Techinal Architecture:
 This repository contains a full-stack data engine:
   - Data Generation (generate_saas_data.py): A Python-based engine that simulates 250 companies with realistic behavioral decay (15-20% monthly usage drops for churners).
   - NLP Pipeline: Sentiment scoring and topic extraction from unstructured support tickets.
-  - Relational Schema:
-      dim_customers: Account metadata and MRR.
-      fact_usage_logs: Time-series login and engagement data.
-      fact_support_tickets: Unstructured text logs (Complaints, Praise, Neutral).
-      fact_subscriptions: The "Ground Truth" churn status.
+  - Relational Schema
 
 Problems Solved:
   - Identifies frustration in messy, unstructured support data
