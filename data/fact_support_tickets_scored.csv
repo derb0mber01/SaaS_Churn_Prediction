@@ -1,0 +1,738 @@
+customer_id,ticket_id,ticket_category,ticket_text,priority,created_at,sentiment_score,sentiment_label
+1,837306,Account,Pricing has increased 20% but we haven't seen any new features in months.,High,31/05/2025,-0.4118,Negative
+1,583687,Account,Too many clicks to reach the main dashboard. UX is frustrating.,High,16/01/2025,-0.4215,Negative
+1,698377,Account,The new automated workflow saved our team 10 hours this week!,Low,16/01/2025,0.4753,Positive
+1,259139,Account,Our procurement department is questioning the ROI of this contract.,High,29/01/2025,-0.1027,Negative
+2,810803,Account,The custom reporting tool is a game changer for our QBRs.,Low,18/02/2025,0.75,Positive
+2,386671,Technical,Best-in-class API documentation. We got up and running in a day.,Low,03/04/2025,0.75,Positive
+3,765140,Account,Our procurement department is questioning the ROI of this contract.,Low,02/04/2025,-0.1027,Negative
+3,130533,Account,Where can I find the invoice for March 2025?,Low,09/03/2025,0.0,Neutral
+4,684556,Account,UI is extremely sluggish when loading large datasets. Unusable for our team.,High,30/03/2025,-0.4576,Negative
+4,465560,Account,The new automated workflow saved our team 10 hours this week!,Low,06/04/2025,0.4753,Positive
+5,365289,Account,The latest feature release is exactly what we were looking for.,Low,02/04/2025,0.75,Positive
+6,169699,Account,Quick question about the upcoming webinar schedule.,Low,15/03/2025,0.0,Neutral
+7,742604,Technical,Best-in-class API documentation. We got up and running in a day.,Low,20/04/2025,0.75,Positive
+8,151159,Account,Our procurement department is questioning the ROI of this contract.,Low,07/04/2025,-0.1027,Negative
+9,256975,Account,The new automated workflow saved our team 10 hours this week!,Low,25/03/2025,0.4753,Positive
+9,608834,Technical,The Salesforce integration is dropping leads; this is costing us revenue.,Low,15/04/2025,-0.75,Negative
+9,780649,Account,Really appreciate the proactive check-in from our Success Manager.,Low,14/01/2025,0.8676,Positive
+10,317138,Technical,The Salesforce integration is dropping leads; this is costing us revenue.,Low,24/04/2025,-0.75,Negative
+10,342975,Account,Our procurement department is questioning the ROI of this contract.,Low,04/05/2025,-0.1027,Negative
+10,524741,Account,The mobile app is crashing on startup after the iOS update.,Low,16/01/2025,-0.75,Negative
+10,116354,Account,Really appreciate the proactive check-in from our Success Manager.,Low,15/02/2025,0.8676,Positive
+11,892271,Account,Really appreciate the proactive check-in from our Success Manager.,Low,25/04/2025,0.8676,Positive
+12,715178,Account,Can you provide the IP range for whitelisting?,Low,20/02/2025,0.0,Neutral
+12,318272,Account,Higher ROI than the previous vendor we used. Great value.,Low,25/04/2025,0.7579,Positive
+13,591492,Account,Security audit failed due to your outdated SSO implementation.,High,06/01/2025,-0.2263,Negative
+13,211184,Account,Pricing has increased 20% but we haven't seen any new features in months.,High,31/03/2025,-0.4118,Negative
+13,584946,Technical,Best-in-class API documentation. We got up and running in a day.,Low,12/03/2025,0.75,Positive
+13,812079,Account,Super fast load times even with our massive database.,Low,30/05/2025,0.5994,Positive
+13,541033,Account,Updating our billing address who should I send this to?,Low,03/03/2025,0.0,Neutral
+14,717837,Account,Really appreciate the proactive check-in from our Success Manager.,Low,09/03/2025,0.8676,Positive
+14,858596,Account,Can you provide the IP range for whitelisting?,Low,08/02/2025,0.0,Neutral
+14,616462,Account,Higher ROI than the previous vendor we used. Great value.,Low,11/03/2025,0.7579,Positive
+14,570808,Account,Our procurement department is questioning the ROI of this contract.,Low,07/04/2025,-0.1027,Negative
+15,618339,Account,Really appreciate the proactive check-in from our Success Manager.,Low,28/03/2025,0.8676,Positive
+16,862594,Account,Security audit failed due to your outdated SSO implementation.,High,10/05/2025,-0.2263,Negative
+16,306597,Account,"Major regression found in the latest deployment, reporting is broken.",High,16/04/2025,-0.4767,Negative
+16,314397,Account,Can you provide the IP range for whitelisting?,Low,18/05/2025,0.0,Neutral
+17,165872,Account,Really appreciate the proactive check-in from our Success Manager.,Low,31/01/2025,0.8676,Positive
+18,985410,Technical,Is there a limit on the number of API calls per minute?,Low,20/01/2025,0.0,Neutral
+18,459229,Account,Really appreciate the proactive check-in from our Success Manager.,Low,10/02/2025,0.8676,Positive
+18,554170,Account,The mobile app is crashing on startup after the iOS update.,Low,06/02/2025,-0.75,Negative
+18,739203,Account,Where can I find the invoice for March 2025?,Low,16/03/2025,0.0,Neutral
+19,178622,Account,The latest feature release is exactly what we were looking for.,Low,13/05/2025,0.75,Positive
+19,515634,Technical,Is there a limit on the number of API calls per minute?,Low,14/01/2025,0.0,Neutral
+19,397145,Account,Too many clicks to reach the main dashboard. UX is frustrating.,High,24/01/2025,-0.4215,Negative
+19,159030,Account,UI is extremely sluggish when loading large datasets. Unusable for our team.,High,03/04/2025,-0.4576,Negative
+19,530468,Account,Pricing has increased 20% but we haven't seen any new features in months.,High,31/03/2025,-0.4118,Negative
+19,644013,Technical,The Salesforce integration is dropping leads; this is costing us revenue.,Low,16/02/2025,-0.75,Negative
+20,669323,Account,Incredible response time from the technical support team.,Low,15/05/2025,0.4019,Positive
+21,680443,Technical,Integration with Slack was seamless. Love the notifications.,Low,08/03/2025,0.6369,Positive
+21,293142,Account,The mobile app is crashing on startup after the iOS update.,Low,07/04/2025,-0.75,Negative
+22,178798,Account,Super fast load times even with our massive database.,Low,20/03/2025,0.5994,Positive
+23,128105,Account,The latest feature release is exactly what we were looking for.,Low,17/04/2025,0.75,Positive
+23,458217,Account,The dashboard is beautiful and very intuitive for our executives.,Low,08/04/2025,0.5994,Positive
+24,674703,Account,The mobile app is crashing on startup after the iOS update.,Low,13/05/2025,-0.75,Negative
+24,787973,Account,Can you provide the IP range for whitelisting?,Low,10/05/2025,0.0,Neutral
+25,877955,Account,The dashboard is beautiful and very intuitive for our executives.,Low,05/01/2025,0.5994,Positive
+25,217396,Technical,Integration with Slack was seamless. Love the notifications.,Low,04/02/2025,0.6369,Positive
+26,225811,Account,The dashboard is beautiful and very intuitive for our executives.,Low,20/04/2025,0.5994,Positive
+26,288068,Account,Bulk export to CSV keeps timing out for our Enterprise account.,Low,25/04/2025,-0.75,Negative
+27,694713,Account,Higher ROI than the previous vendor we used. Great value.,Low,11/05/2025,0.7579,Positive
+27,882641,Account,The mobile app is crashing on startup after the iOS update.,Low,02/02/2025,-0.75,Negative
+27,993551,Account,Requesting a copy of the latest SOC2 Type II report.,Low,04/04/2025,0.0,Neutral
+28,734706,Account,Incredible response time from the technical support team.,Low,30/01/2025,0.4019,Positive
+29,859922,Account,How do I reset the password for a sub-user?,Low,27/05/2025,0.0,Neutral
+29,749057,Account,The dashboard is beautiful and very intuitive for our executives.,Low,16/03/2025,0.5994,Positive
+29,918119,Account,Does the current plan support multi-factor authentication?,Low,16/04/2025,0.0,Neutral
+29,771402,Account,Really appreciate the proactive check-in from our Success Manager.,Low,29/03/2025,0.8676,Positive
+30,948039,Account,Pricing has increased 20% but we haven't seen any new features in months.,High,11/05/2025,-0.4118,Negative
+30,199978,Technical,Best-in-class API documentation. We got up and running in a day.,Low,05/03/2025,0.75,Positive
+30,171799,Technical,Integration with Slack was seamless. Love the notifications.,Low,25/01/2025,0.6369,Positive
+30,243450,Account,Quick question about the upcoming webinar schedule.,Low,14/01/2025,0.0,Neutral
+31,766439,Technical,Integration with Slack was seamless. Love the notifications.,Low,22/02/2025,0.6369,Positive
+32,374681,Account,"Major regression found in the latest deployment, reporting is broken.",High,04/01/2025,-0.4767,Negative
+32,646957,Account,Incredible response time from the technical support team.,Low,19/01/2025,0.4019,Positive
+33,345418,Account,Can you provide the IP range for whitelisting?,Low,17/05/2025,0.0,Neutral
+34,936866,Account,Really appreciate the proactive check-in from our Success Manager.,Low,06/03/2025,0.8676,Positive
+34,358953,Account,Quick question about the upcoming webinar schedule.,Low,05/01/2025,0.0,Neutral
+34,910129,Account,Our procurement department is questioning the ROI of this contract.,Low,22/02/2025,-0.1027,Negative
+34,791929,Technical,API documentation is inconsistent with the actual endpoints.,Low,06/05/2025,-0.75,Negative
+35,256341,Account,Super fast load times even with our massive database.,Low,15/05/2025,0.5994,Positive
+36,136958,Account,Our procurement department is questioning the ROI of this contract.,Low,01/01/2025,-0.1027,Negative
+36,980721,Technical,The Salesforce integration is dropping leads; this is costing us revenue.,Low,08/04/2025,-0.75,Negative
+36,624781,Account,Bulk export to CSV keeps timing out for our Enterprise account.,Low,11/04/2025,-0.75,Negative
+36,903111,Technical,API documentation is inconsistent with the actual endpoints.,Low,21/05/2025,-0.75,Negative
+37,853251,Technical,The Salesforce integration is dropping leads; this is costing us revenue.,Low,04/03/2025,-0.75,Negative
+37,991333,Account,Super fast load times even with our massive database.,Low,25/03/2025,0.5994,Positive
+37,864501,Account,The dashboard is beautiful and very intuitive for our executives.,Low,29/05/2025,0.5994,Positive
+37,695836,Account,The custom reporting tool is a game changer for our QBRs.,Low,06/04/2025,0.75,Positive
+38,180021,Account,Really appreciate the proactive check-in from our Success Manager.,Low,06/05/2025,0.8676,Positive
+39,539589,Account,Too many clicks to reach the main dashboard. UX is frustrating.,High,01/02/2025,-0.4215,Negative
+39,634901,Technical,Best-in-class API documentation. We got up and running in a day.,Low,21/01/2025,0.75,Positive
+40,984890,Account,The latest feature release is exactly what we were looking for.,Low,26/01/2025,0.75,Positive
+40,680009,Account,Where can I find the invoice for March 2025?,Low,06/03/2025,0.0,Neutral
+40,418832,Technical,API documentation is inconsistent with the actual endpoints.,Low,31/01/2025,-0.75,Negative
+40,861823,Account,"Major regression found in the latest deployment, reporting is broken.",High,12/05/2025,-0.4767,Negative
+41,200936,Technical,Is there a limit on the number of API calls per minute?,Low,06/03/2025,0.0,Neutral
+41,181162,Account,Really appreciate the proactive check-in from our Success Manager.,Low,01/01/2025,0.8676,Positive
+41,413455,Account,Pricing has increased 20% but we haven't seen any new features in months.,High,08/03/2025,-0.4118,Negative
+42,804784,Account,UI is extremely sluggish when loading large datasets. Unusable for our team.,High,19/01/2025,-0.4576,Negative
+43,946758,Technical,Integration with Slack was seamless. Love the notifications.,Low,29/05/2025,0.6369,Positive
+43,149741,Account,The latest feature release is exactly what we were looking for.,Low,02/03/2025,0.75,Positive
+44,440949,Account,Updating our billing address who should I send this to?,Low,01/01/2025,0.0,Neutral
+44,324798,Technical,The Salesforce integration is dropping leads; this is costing us revenue.,Low,07/01/2025,-0.75,Negative
+44,776517,Account,Incredible response time from the technical support team.,Low,29/04/2025,0.4019,Positive
+44,114191,Account,Our procurement department is questioning the ROI of this contract.,Low,09/05/2025,-0.1027,Negative
+45,273701,Account,Quick question about the upcoming webinar schedule.,Low,23/01/2025,0.0,Neutral
+46,854659,Account,The custom reporting tool is a game changer for our QBRs.,Low,29/04/2025,0.75,Positive
+46,806319,Account,Super fast load times even with our massive database.,Low,12/04/2025,0.5994,Positive
+46,505852,Technical,Is there a limit on the number of API calls per minute?,Low,21/02/2025,0.0,Neutral
+47,953262,Technical,The Salesforce integration is dropping leads; this is costing us revenue.,Low,20/01/2025,-0.75,Negative
+48,428444,Account,Updating our billing address who should I send this to?,Low,04/04/2025,0.0,Neutral
+48,595942,Account,Bulk export to CSV keeps timing out for our Enterprise account.,Low,14/02/2025,-0.75,Negative
+48,472029,Account,Can you provide the IP range for whitelisting?,Low,12/03/2025,0.0,Neutral
+49,796151,Technical,The Salesforce integration is dropping leads; this is costing us revenue.,Low,12/04/2025,-0.75,Negative
+49,437457,Account,The new automated workflow saved our team 10 hours this week!,Low,11/05/2025,0.4753,Positive
+49,445050,Technical,Integration with Slack was seamless. Love the notifications.,Low,08/04/2025,0.6369,Positive
+49,468002,Account,Does the current plan support multi-factor authentication?,Low,28/03/2025,0.0,Neutral
+50,642699,Account,Super fast load times even with our massive database.,Low,14/03/2025,0.5994,Positive
+50,480703,Account,The mobile app is crashing on startup after the iOS update.,Low,29/01/2025,-0.75,Negative
+50,896391,Technical,API documentation is inconsistent with the actual endpoints.,Low,12/05/2025,-0.75,Negative
+50,857396,Account,"Major regression found in the latest deployment, reporting is broken.",High,21/05/2025,-0.4767,Negative
+50,642101,Account,Pricing has increased 20% but we haven't seen any new features in months.,High,27/01/2025,-0.4118,Negative
+50,796131,Account,Updating our billing address who should I send this to?,Low,01/05/2025,0.0,Neutral
+51,553507,Account,The new automated workflow saved our team 10 hours this week!,Low,22/05/2025,0.4753,Positive
+51,121066,Technical,Integration with Slack was seamless. Love the notifications.,Low,19/04/2025,0.6369,Positive
+51,627147,Account,Bulk export to CSV keeps timing out for our Enterprise account.,Low,05/04/2025,-0.75,Negative
+51,889778,Account,The latest feature release is exactly what we were looking for.,Low,30/01/2025,0.75,Positive
+52,502011,Account,The custom reporting tool is a game changer for our QBRs.,Low,16/02/2025,0.75,Positive
+52,659984,Account,The dashboard is beautiful and very intuitive for our executives.,Low,25/03/2025,0.5994,Positive
+52,824404,Account,Super fast load times even with our massive database.,Low,24/01/2025,0.5994,Positive
+53,883587,Account,The latest feature release is exactly what we were looking for.,Low,15/04/2025,0.75,Positive
+54,537992,Account,Security audit failed due to your outdated SSO implementation.,Low,12/02/2025,-0.2263,Negative
+54,159261,Technical,The Salesforce integration is dropping leads; this is costing us revenue.,Low,18/03/2025,-0.75,Negative
+54,553999,Account,The mobile app is crashing on startup after the iOS update.,Low,22/02/2025,-0.75,Negative
+54,616396,Account,The new automated workflow saved our team 10 hours this week!,Low,03/02/2025,0.4753,Positive
+54,223551,Account,Our procurement department is questioning the ROI of this contract.,High,03/01/2025,-0.1027,Negative
+54,899810,Account,Too many clicks to reach the main dashboard. UX is frustrating.,High,05/01/2025,-0.4215,Negative
+55,480945,Account,The dashboard is beautiful and very intuitive for our executives.,Low,17/05/2025,0.5994,Positive
+55,135331,Technical,Best-in-class API documentation. We got up and running in a day.,Low,25/03/2025,0.75,Positive
+55,450746,Account,Our procurement department is questioning the ROI of this contract.,Low,02/03/2025,-0.1027,Negative
+55,738768,Account,Where can I find the invoice for March 2025?,Low,14/02/2025,0.0,Neutral
+56,224789,Account,Higher ROI than the previous vendor we used. Great value.,Low,16/04/2025,0.7579,Positive
+56,140998,Account,Bulk export to CSV keeps timing out for our Enterprise account.,Low,27/02/2025,-0.75,Negative
+57,150619,Account,Super fast load times even with our massive database.,Low,22/01/2025,0.5994,Positive
+58,978416,Account,The custom reporting tool is a game changer for our QBRs.,Low,04/02/2025,0.75,Positive
+59,705435,Account,Pricing has increased 20% but we haven't seen any new features in months.,High,25/05/2025,-0.4118,Negative
+59,278092,Account,The custom reporting tool is a game changer for our QBRs.,Low,24/01/2025,0.75,Positive
+59,244181,Account,Security audit failed due to your outdated SSO implementation.,Low,30/03/2025,-0.2263,Negative
+60,642922,Account,Pricing has increased 20% but we haven't seen any new features in months.,High,17/01/2025,-0.4118,Negative
+60,922474,Account,The dashboard is beautiful and very intuitive for our executives.,Low,21/05/2025,0.5994,Positive
+61,895590,Account,Bulk export to CSV keeps timing out for our Enterprise account.,Low,21/02/2025,-0.75,Negative
+61,889384,Account,Incredible response time from the technical support team.,Low,07/04/2025,0.4019,Positive
+61,900095,Technical,The Salesforce integration is dropping leads; this is costing us revenue.,Low,06/02/2025,-0.75,Negative
+61,779744,Account,Can you provide the IP range for whitelisting?,Low,26/05/2025,0.0,Neutral
+62,376191,Account,"Major regression found in the latest deployment, reporting is broken.",High,06/03/2025,-0.4767,Negative
+62,864173,Account,Pricing has increased 20% but we haven't seen any new features in months.,High,16/05/2025,-0.4118,Negative
+62,178128,Account,Our procurement department is questioning the ROI of this contract.,High,20/04/2025,-0.1027,Negative
+62,812555,Account,Security audit failed due to your outdated SSO implementation.,High,23/05/2025,-0.2263,Negative
+62,257697,Account,Where can I find the invoice for March 2025?,Low,22/02/2025,0.0,Neutral
+63,727033,Account,UI is extremely sluggish when loading large datasets. Unusable for our team.,High,30/03/2025,-0.4576,Negative
+64,690967,Technical,The Salesforce integration is dropping leads; this is costing us revenue.,Low,12/02/2025,-0.75,Negative
+64,640194,Account,Incredible response time from the technical support team.,Low,04/02/2025,0.4019,Positive
+64,688499,Technical,API documentation is inconsistent with the actual endpoints.,Low,10/05/2025,-0.75,Negative
+64,207202,Account,Bulk export to CSV keeps timing out for our Enterprise account.,Low,20/05/2025,-0.75,Negative
+65,721340,Account,The new automated workflow saved our team 10 hours this week!,Low,08/05/2025,0.4753,Positive
+65,208614,Account,The dashboard is beautiful and very intuitive for our executives.,Low,24/02/2025,0.5994,Positive
+65,747073,Account,Incredible response time from the technical support team.,Low,09/01/2025,0.4019,Positive
+66,545062,Account,Can you provide the IP range for whitelisting?,Low,19/03/2025,0.0,Neutral
+66,178972,Account,Higher ROI than the previous vendor we used. Great value.,Low,10/01/2025,0.7579,Positive
+66,330460,Account,Pricing has increased 20% but we haven't seen any new features in months.,High,24/03/2025,-0.4118,Negative
+66,866962,Account,The mobile app is crashing on startup after the iOS update.,Low,23/03/2025,-0.75,Negative
+66,201736,Account,Too many clicks to reach the main dashboard. UX is frustrating.,High,18/05/2025,-0.4215,Negative
+67,635099,Account,UI is extremely sluggish when loading large datasets. Unusable for our team.,High,13/04/2025,-0.4576,Negative
+67,880556,Account,"Major regression found in the latest deployment, reporting is broken.",High,09/03/2025,-0.4767,Negative
+67,660516,Technical,Integration with Slack was seamless. Love the notifications.,Low,18/03/2025,0.6369,Positive
+67,750074,Account,Requesting a copy of the latest SOC2 Type II report.,Low,03/01/2025,0.0,Neutral
+68,794468,Account,Where can I find the invoice for March 2025?,Low,19/01/2025,0.0,Neutral
+68,745921,Account,Our procurement department is questioning the ROI of this contract.,Low,29/03/2025,-0.1027,Negative
+68,222774,Account,Higher ROI than the previous vendor we used. Great value.,Low,06/05/2025,0.7579,Positive
+68,152879,Account,Requesting a copy of the latest SOC2 Type II report.,Low,22/01/2025,0.0,Neutral
+69,977807,Account,Our procurement department is questioning the ROI of this contract.,Low,02/02/2025,-0.1027,Negative
+69,453675,Account,Pricing has increased 20% but we haven't seen any new features in months.,High,24/02/2025,-0.4118,Negative
+69,631435,Account,Higher ROI than the previous vendor we used. Great value.,Low,26/01/2025,0.7579,Positive
+69,492349,Account,UI is extremely sluggish when loading large datasets. Unusable for our team.,High,21/01/2025,-0.4576,Negative
+70,230741,Account,The new automated workflow saved our team 10 hours this week!,Low,07/03/2025,0.4753,Positive
+70,292342,Account,The mobile app is crashing on startup after the iOS update.,Low,21/01/2025,-0.75,Negative
+70,193713,Account,Higher ROI than the previous vendor we used. Great value.,Low,27/03/2025,0.7579,Positive
+70,427040,Account,Does the current plan support multi-factor authentication?,Low,21/01/2025,0.0,Neutral
+71,364188,Account,Quick question about the upcoming webinar schedule.,Low,06/03/2025,0.0,Neutral
+72,742525,Technical,Is there a limit on the number of API calls per minute?,Low,25/05/2025,0.0,Neutral
+72,469170,Account,Bulk export to CSV keeps timing out for our Enterprise account.,Low,22/04/2025,-0.75,Negative
+72,351379,Technical,Integration with Slack was seamless. Love the notifications.,Low,07/02/2025,0.6369,Positive
+73,147086,Account,Really appreciate the proactive check-in from our Success Manager.,Low,13/04/2025,0.8676,Positive
+74,586569,Account,Our procurement department is questioning the ROI of this contract.,Low,05/01/2025,-0.1027,Negative
+74,432589,Account,UI is extremely sluggish when loading large datasets. Unusable for our team.,High,18/02/2025,-0.4576,Negative
+74,784520,Technical,Is there a limit on the number of API calls per minute?,Low,30/01/2025,0.0,Neutral
+74,416112,Account,Bulk export to CSV keeps timing out for our Enterprise account.,Low,18/03/2025,-0.75,Negative
+75,203096,Account,Pricing has increased 20% but we haven't seen any new features in months.,High,03/04/2025,-0.4118,Negative
+75,644987,Account,The custom reporting tool is a game changer for our QBRs.,Low,12/01/2025,0.75,Positive
+75,123409,Account,The latest feature release is exactly what we were looking for.,Low,23/05/2025,0.75,Positive
+75,241538,Account,"Major regression found in the latest deployment, reporting is broken.",High,20/01/2025,-0.4767,Negative
+76,464851,Technical,Is there a limit on the number of API calls per minute?,Low,24/02/2025,0.0,Neutral
+76,661795,Account,The dashboard is beautiful and very intuitive for our executives.,Low,13/03/2025,0.5994,Positive
+76,843172,Technical,Integration with Slack was seamless. Love the notifications.,Low,20/05/2025,0.6369,Positive
+77,984641,Account,Our procurement department is questioning the ROI of this contract.,Low,12/02/2025,-0.1027,Negative
+78,593674,Account,Pricing has increased 20% but we haven't seen any new features in months.,High,28/02/2025,-0.4118,Negative
+78,865232,Account,"Major regression found in the latest deployment, reporting is broken.",High,29/05/2025,-0.4767,Negative
+78,896652,Account,The custom reporting tool is a game changer for our QBRs.,Low,09/05/2025,0.75,Positive
+79,120096,Technical,Best-in-class API documentation. We got up and running in a day.,Low,24/04/2025,0.75,Positive
+79,164091,Technical,Is there a limit on the number of API calls per minute?,Low,25/05/2025,0.0,Neutral
+80,659634,Account,The latest feature release is exactly what we were looking for.,Low,17/03/2025,0.75,Positive
+80,788084,Account,Updating our billing address who should I send this to?,Low,23/04/2025,0.0,Neutral
+81,956438,Account,Does the current plan support multi-factor authentication?,Low,01/03/2025,0.0,Neutral
+81,681401,Account,Incredible response time from the technical support team.,Low,30/03/2025,0.4019,Positive
+81,324223,Account,Bulk export to CSV keeps timing out for our Enterprise account.,Low,15/03/2025,-0.75,Negative
+82,847576,Technical,The Salesforce integration is dropping leads; this is costing us revenue.,Low,27/05/2025,-0.75,Negative
+82,978738,Account,"Major regression found in the latest deployment, reporting is broken.",High,06/01/2025,-0.4767,Negative
+82,515678,Account,Does the current plan support multi-factor authentication?,Low,15/05/2025,0.0,Neutral
+83,724960,Technical,Best-in-class API documentation. We got up and running in a day.,Low,15/01/2025,0.75,Positive
+83,548493,Technical,API documentation is inconsistent with the actual endpoints.,Low,13/03/2025,-0.75,Negative
+83,205372,Account,Where can I find the invoice for March 2025?,Low,20/04/2025,0.0,Neutral
+83,348457,Account,Pricing has increased 20% but we haven't seen any new features in months.,High,17/05/2025,-0.4118,Negative
+83,459262,Account,Does the current plan support multi-factor authentication?,Low,21/01/2025,0.0,Neutral
+83,647184,Account,The latest feature release is exactly what we were looking for.,Low,23/01/2025,0.75,Positive
+84,148473,Account,Does the current plan support multi-factor authentication?,Low,11/03/2025,0.0,Neutral
+84,738585,Account,Super fast load times even with our massive database.,Low,19/02/2025,0.5994,Positive
+84,751911,Account,The latest feature release is exactly what we were looking for.,Low,03/03/2025,0.75,Positive
+85,447963,Account,The dashboard is beautiful and very intuitive for our executives.,Low,04/02/2025,0.5994,Positive
+85,642712,Account,Updating our billing address who should I send this to?,Low,23/02/2025,0.0,Neutral
+85,245135,Account,Really appreciate the proactive check-in from our Success Manager.,Low,14/04/2025,0.8676,Positive
+86,658371,Account,UI is extremely sluggish when loading large datasets. Unusable for our team.,High,03/03/2025,-0.4576,Negative
+86,626246,Account,The mobile app is crashing on startup after the iOS update.,Low,26/02/2025,-0.75,Negative
+86,989792,Account,The new automated workflow saved our team 10 hours this week!,Low,17/01/2025,0.4753,Positive
+86,544137,Technical,The Salesforce integration is dropping leads; this is costing us revenue.,Low,01/05/2025,-0.75,Negative
+87,656915,Account,Incredible response time from the technical support team.,Low,26/03/2025,0.4019,Positive
+87,269976,Technical,Best-in-class API documentation. We got up and running in a day.,Low,15/01/2025,0.75,Positive
+87,924990,Technical,Integration with Slack was seamless. Love the notifications.,Low,10/02/2025,0.6369,Positive
+87,462427,Technical,API documentation is inconsistent with the actual endpoints.,Low,25/03/2025,-0.75,Negative
+88,380019,Account,"Major regression found in the latest deployment, reporting is broken.",High,27/04/2025,-0.4767,Negative
+88,540889,Account,Does the current plan support multi-factor authentication?,Low,14/01/2025,0.0,Neutral
+88,189341,Technical,The Salesforce integration is dropping leads; this is costing us revenue.,Low,23/01/2025,-0.75,Negative
+88,223369,Account,Too many clicks to reach the main dashboard. UX is frustrating.,High,16/02/2025,-0.4215,Negative
+88,340264,Account,The mobile app is crashing on startup after the iOS update.,Low,08/03/2025,-0.75,Negative
+89,747359,Technical,The Salesforce integration is dropping leads; this is costing us revenue.,Low,19/01/2025,-0.75,Negative
+89,118318,Account,Requesting a copy of the latest SOC2 Type II report.,Low,22/01/2025,0.0,Neutral
+89,661558,Technical,Integration with Slack was seamless. Love the notifications.,Low,20/04/2025,0.6369,Positive
+90,172539,Technical,The Salesforce integration is dropping leads; this is costing us revenue.,Low,11/03/2025,-0.75,Negative
+91,648163,Account,Can you provide the IP range for whitelisting?,Low,18/05/2025,0.0,Neutral
+91,571908,Account,Where can I find the invoice for March 2025?,Low,08/03/2025,0.0,Neutral
+92,241154,Technical,Integration with Slack was seamless. Love the notifications.,Low,16/03/2025,0.6369,Positive
+92,904449,Technical,The Salesforce integration is dropping leads; this is costing us revenue.,Low,09/04/2025,-0.75,Negative
+92,594664,Account,Where can I find the invoice for March 2025?,Low,21/05/2025,0.0,Neutral
+93,493801,Account,Where can I find the invoice for March 2025?,Low,14/01/2025,0.0,Neutral
+93,393588,Account,Bulk export to CSV keeps timing out for our Enterprise account.,Low,20/02/2025,-0.75,Negative
+93,498221,Account,Security audit failed due to your outdated SSO implementation.,High,21/04/2025,-0.2263,Negative
+93,714918,Account,Our procurement department is questioning the ROI of this contract.,High,18/04/2025,-0.1027,Negative
+93,791375,Account,The dashboard is beautiful and very intuitive for our executives.,Low,24/05/2025,0.5994,Positive
+94,188646,Account,The new automated workflow saved our team 10 hours this week!,Low,28/04/2025,0.4753,Positive
+94,607550,Technical,API documentation is inconsistent with the actual endpoints.,Low,23/02/2025,-0.75,Negative
+94,265695,Account,Does the current plan support multi-factor authentication?,Low,11/02/2025,0.0,Neutral
+95,490190,Account,The latest feature release is exactly what we were looking for.,Low,11/01/2025,0.75,Positive
+96,857471,Account,The custom reporting tool is a game changer for our QBRs.,Low,04/05/2025,0.75,Positive
+96,368721,Account,Our procurement department is questioning the ROI of this contract.,Low,15/02/2025,-0.1027,Negative
+96,671845,Account,Incredible response time from the technical support team.,Low,16/05/2025,0.4019,Positive
+97,267395,Account,Security audit failed due to your outdated SSO implementation.,Low,08/03/2025,-0.2263,Negative
+97,640317,Account,"Major regression found in the latest deployment, reporting is broken.",High,15/01/2025,-0.4767,Negative
+98,705658,Account,The custom reporting tool is a game changer for our QBRs.,Low,24/04/2025,0.75,Positive
+98,700956,Account,Requesting a copy of the latest SOC2 Type II report.,Low,08/01/2025,0.0,Neutral
+98,703869,Account,Where can I find the invoice for March 2025?,Low,04/02/2025,0.0,Neutral
+99,199050,Account,The custom reporting tool is a game changer for our QBRs.,Low,24/05/2025,0.75,Positive
+100,656046,Account,Bulk export to CSV keeps timing out for our Enterprise account.,Low,13/05/2025,-0.75,Negative
+100,189280,Account,UI is extremely sluggish when loading large datasets. Unusable for our team.,High,15/03/2025,-0.4576,Negative
+100,315284,Technical,API documentation is inconsistent with the actual endpoints.,Low,20/02/2025,-0.75,Negative
+100,219576,Account,Too many clicks to reach the main dashboard. UX is frustrating.,High,16/03/2025,-0.4215,Negative
+101,903571,Account,The dashboard is beautiful and very intuitive for our executives.,Low,11/01/2025,0.5994,Positive
+101,942805,Account,Bulk export to CSV keeps timing out for our Enterprise account.,Low,03/02/2025,-0.75,Negative
+101,196508,Account,The custom reporting tool is a game changer for our QBRs.,Low,14/02/2025,0.75,Positive
+102,139790,Technical,API documentation is inconsistent with the actual endpoints.,Low,17/03/2025,-0.75,Negative
+102,281333,Account,The dashboard is beautiful and very intuitive for our executives.,Low,14/01/2025,0.5994,Positive
+103,459625,Account,The dashboard is beautiful and very intuitive for our executives.,Low,13/01/2025,0.5994,Positive
+103,144166,Account,The custom reporting tool is a game changer for our QBRs.,Low,29/04/2025,0.75,Positive
+103,855359,Account,The mobile app is crashing on startup after the iOS update.,Low,09/03/2025,-0.75,Negative
+104,877651,Account,Pricing has increased 20% but we haven't seen any new features in months.,High,28/04/2025,-0.4118,Negative
+104,911975,Account,Where can I find the invoice for March 2025?,Low,12/01/2025,0.0,Neutral
+104,977842,Account,Security audit failed due to your outdated SSO implementation.,Low,23/01/2025,-0.2263,Negative
+104,639662,Technical,The Salesforce integration is dropping leads; this is costing us revenue.,Low,18/03/2025,-0.75,Negative
+104,229260,Account,UI is extremely sluggish when loading large datasets. Unusable for our team.,High,09/01/2025,-0.4576,Negative
+104,666334,Account,Updating our billing address who should I send this to?,Low,17/05/2025,0.0,Neutral
+105,306793,Technical,The Salesforce integration is dropping leads; this is costing us revenue.,Low,11/03/2025,-0.75,Negative
+106,519429,Account,The custom reporting tool is a game changer for our QBRs.,Low,08/05/2025,0.75,Positive
+106,979181,Account,Quick question about the upcoming webinar schedule.,Low,16/05/2025,0.0,Neutral
+107,629431,Account,How do I reset the password for a sub-user?,Low,24/04/2025,0.0,Neutral
+107,658116,Account,"Major regression found in the latest deployment, reporting is broken.",High,11/02/2025,-0.4767,Negative
+107,197439,Account,Higher ROI than the previous vendor we used. Great value.,Low,29/04/2025,0.7579,Positive
+107,434721,Account,Super fast load times even with our massive database.,Low,16/05/2025,0.5994,Positive
+108,169753,Account,Really appreciate the proactive check-in from our Success Manager.,Low,05/04/2025,0.8676,Positive
+108,209188,Technical,The Salesforce integration is dropping leads; this is costing us revenue.,Low,02/04/2025,-0.75,Negative
+109,561342,Account,"Major regression found in the latest deployment, reporting is broken.",High,24/04/2025,-0.4767,Negative
+109,755061,Account,Higher ROI than the previous vendor we used. Great value.,Low,08/01/2025,0.7579,Positive
+109,938054,Technical,Best-in-class API documentation. We got up and running in a day.,Low,10/04/2025,0.75,Positive
+110,396888,Account,Pricing has increased 20% but we haven't seen any new features in months.,High,28/03/2025,-0.4118,Negative
+110,864379,Account,The mobile app is crashing on startup after the iOS update.,Low,20/04/2025,-0.75,Negative
+110,427920,Account,UI is extremely sluggish when loading large datasets. Unusable for our team.,High,22/04/2025,-0.4576,Negative
+110,808993,Account,The custom reporting tool is a game changer for our QBRs.,Low,27/02/2025,0.75,Positive
+110,987672,Account,The dashboard is beautiful and very intuitive for our executives.,Low,26/01/2025,0.5994,Positive
+110,742565,Account,The new automated workflow saved our team 10 hours this week!,Low,29/04/2025,0.4753,Positive
+111,689468,Account,Bulk export to CSV keeps timing out for our Enterprise account.,Low,01/05/2025,-0.75,Negative
+112,670093,Account,Where can I find the invoice for March 2025?,Low,05/05/2025,0.0,Neutral
+113,741479,Account,The custom reporting tool is a game changer for our QBRs.,Low,05/03/2025,0.75,Positive
+113,170104,Account,Where can I find the invoice for March 2025?,Low,08/02/2025,0.0,Neutral
+113,562540,Account,Higher ROI than the previous vendor we used. Great value.,Low,12/04/2025,0.7579,Positive
+114,953304,Account,Super fast load times even with our massive database.,Low,31/05/2025,0.5994,Positive
+114,626233,Account,UI is extremely sluggish when loading large datasets. Unusable for our team.,High,06/02/2025,-0.4576,Negative
+115,699582,Account,Security audit failed due to your outdated SSO implementation.,Low,07/02/2025,-0.2263,Negative
+116,694518,Account,Incredible response time from the technical support team.,Low,22/02/2025,0.4019,Positive
+116,845835,Account,Where can I find the invoice for March 2025?,Low,06/04/2025,0.0,Neutral
+116,577689,Account,Higher ROI than the previous vendor we used. Great value.,Low,12/05/2025,0.7579,Positive
+116,634210,Account,UI is extremely sluggish when loading large datasets. Unusable for our team.,High,16/05/2025,-0.4576,Negative
+116,501811,Account,Our procurement department is questioning the ROI of this contract.,Low,03/02/2025,-0.1027,Negative
+116,105532,Technical,The Salesforce integration is dropping leads; this is costing us revenue.,Low,01/01/2025,-0.75,Negative
+116,674518,Account,Security audit failed due to your outdated SSO implementation.,Low,18/01/2025,-0.2263,Negative
+117,103741,Account,Does the current plan support multi-factor authentication?,Low,13/02/2025,0.0,Neutral
+117,494755,Account,Higher ROI than the previous vendor we used. Great value.,Low,26/03/2025,0.7579,Positive
+118,584676,Account,Where can I find the invoice for March 2025?,Low,15/02/2025,0.0,Neutral
+118,984552,Account,The mobile app is crashing on startup after the iOS update.,Low,20/01/2025,-0.75,Negative
+118,672477,Technical,The Salesforce integration is dropping leads; this is costing us revenue.,Low,01/05/2025,-0.75,Negative
+119,687574,Account,Our procurement department is questioning the ROI of this contract.,Low,25/02/2025,-0.1027,Negative
+119,840921,Technical,Best-in-class API documentation. We got up and running in a day.,Low,23/05/2025,0.75,Positive
+119,918382,Technical,Integration with Slack was seamless. Love the notifications.,Low,21/03/2025,0.6369,Positive
+119,874097,Account,Requesting a copy of the latest SOC2 Type II report.,Low,09/01/2025,0.0,Neutral
+120,164492,Account,Higher ROI than the previous vendor we used. Great value.,Low,24/01/2025,0.7579,Positive
+121,128160,Account,Incredible response time from the technical support team.,Low,11/03/2025,0.4019,Positive
+121,723820,Account,"Major regression found in the latest deployment, reporting is broken.",High,01/03/2025,-0.4767,Negative
+121,449085,Technical,The Salesforce integration is dropping leads; this is costing us revenue.,Low,21/02/2025,-0.75,Negative
+121,741328,Account,Bulk export to CSV keeps timing out for our Enterprise account.,Low,14/05/2025,-0.75,Negative
+121,810901,Account,Really appreciate the proactive check-in from our Success Manager.,Low,16/02/2025,0.8676,Positive
+122,496131,Account,The custom reporting tool is a game changer for our QBRs.,Low,17/03/2025,0.75,Positive
+122,134094,Account,Really appreciate the proactive check-in from our Success Manager.,Low,03/03/2025,0.8676,Positive
+123,128274,Account,Updating our billing address who should I send this to?,Low,17/04/2025,0.0,Neutral
+123,886347,Technical,Integration with Slack was seamless. Love the notifications.,Low,16/02/2025,0.6369,Positive
+123,509150,Account,"Major regression found in the latest deployment, reporting is broken.",High,26/03/2025,-0.4767,Negative
+124,656984,Technical,Integration with Slack was seamless. Love the notifications.,Low,08/01/2025,0.6369,Positive
+124,969250,Account,Really appreciate the proactive check-in from our Success Manager.,Low,21/03/2025,0.8676,Positive
+125,108612,Account,Higher ROI than the previous vendor we used. Great value.,Low,01/03/2025,0.7579,Positive
+125,901414,Account,How do I reset the password for a sub-user?,Low,21/01/2025,0.0,Neutral
+125,323832,Technical,Integration with Slack was seamless. Love the notifications.,Low,07/03/2025,0.6369,Positive
+126,142613,Account,UI is extremely sluggish when loading large datasets. Unusable for our team.,High,10/04/2025,-0.4576,Negative
+126,830544,Account,The custom reporting tool is a game changer for our QBRs.,Low,28/04/2025,0.75,Positive
+126,535695,Account,Pricing has increased 20% but we haven't seen any new features in months.,High,16/05/2025,-0.4118,Negative
+126,425338,Technical,API documentation is inconsistent with the actual endpoints.,Low,07/03/2025,-0.75,Negative
+126,237812,Technical,Best-in-class API documentation. We got up and running in a day.,Low,28/02/2025,0.75,Positive
+126,777158,Account,Higher ROI than the previous vendor we used. Great value.,Low,24/01/2025,0.7579,Positive
+126,762758,Account,"Major regression found in the latest deployment, reporting is broken.",High,24/03/2025,-0.4767,Negative
+127,264812,Account,Quick question about the upcoming webinar schedule.,Low,18/01/2025,0.0,Neutral
+127,582934,Account,Pricing has increased 20% but we haven't seen any new features in months.,High,29/05/2025,-0.4118,Negative
+127,537514,Account,Requesting a copy of the latest SOC2 Type II report.,Low,28/02/2025,0.0,Neutral
+128,375081,Account,Really appreciate the proactive check-in from our Success Manager.,Low,15/01/2025,0.8676,Positive
+128,574281,Account,The new automated workflow saved our team 10 hours this week!,Low,01/03/2025,0.4753,Positive
+129,607578,Account,"Major regression found in the latest deployment, reporting is broken.",High,13/04/2025,-0.4767,Negative
+129,333515,Account,The latest feature release is exactly what we were looking for.,Low,06/01/2025,0.75,Positive
+130,841920,Account,Pricing has increased 20% but we haven't seen any new features in months.,High,26/05/2025,-0.4118,Negative
+130,337456,Account,The latest feature release is exactly what we were looking for.,Low,07/05/2025,0.75,Positive
+131,199020,Account,The new automated workflow saved our team 10 hours this week!,Low,27/04/2025,0.4753,Positive
+131,288263,Account,Super fast load times even with our massive database.,Low,18/01/2025,0.5994,Positive
+131,522660,Account,Our procurement department is questioning the ROI of this contract.,Low,24/04/2025,-0.1027,Negative
+131,208975,Account,UI is extremely sluggish when loading large datasets. Unusable for our team.,High,30/04/2025,-0.4576,Negative
+132,718654,Account,Incredible response time from the technical support team.,Low,31/01/2025,0.4019,Positive
+132,650553,Technical,Is there a limit on the number of API calls per minute?,Low,09/05/2025,0.0,Neutral
+132,869620,Account,"Major regression found in the latest deployment, reporting is broken.",High,25/02/2025,-0.4767,Negative
+132,711633,Account,Quick question about the upcoming webinar schedule.,Low,22/05/2025,0.0,Neutral
+133,491159,Account,Pricing has increased 20% but we haven't seen any new features in months.,High,06/04/2025,-0.4118,Negative
+133,306412,Account,The new automated workflow saved our team 10 hours this week!,Low,27/01/2025,0.4753,Positive
+133,379201,Account,Can you provide the IP range for whitelisting?,Low,17/04/2025,0.0,Neutral
+133,672719,Account,The mobile app is crashing on startup after the iOS update.,Low,19/01/2025,-0.75,Negative
+134,724881,Account,Pricing has increased 20% but we haven't seen any new features in months.,High,23/05/2025,-0.4118,Negative
+134,736136,Account,Really appreciate the proactive check-in from our Success Manager.,Low,14/01/2025,0.8676,Positive
+134,987868,Account,The latest feature release is exactly what we were looking for.,Low,18/02/2025,0.75,Positive
+134,116807,Account,Quick question about the upcoming webinar schedule.,Low,13/03/2025,0.0,Neutral
+135,767057,Technical,Integration with Slack was seamless. Love the notifications.,Low,31/05/2025,0.6369,Positive
+135,994227,Account,The dashboard is beautiful and very intuitive for our executives.,Low,25/03/2025,0.5994,Positive
+135,605660,Technical,Best-in-class API documentation. We got up and running in a day.,Low,23/03/2025,0.75,Positive
+136,329522,Account,Super fast load times even with our massive database.,Low,27/05/2025,0.5994,Positive
+136,428401,Account,Updating our billing address who should I send this to?,Low,11/03/2025,0.0,Neutral
+136,891300,Account,Where can I find the invoice for March 2025?,Low,23/02/2025,0.0,Neutral
+137,958957,Technical,Best-in-class API documentation. We got up and running in a day.,Low,01/02/2025,0.75,Positive
+137,846878,Account,Super fast load times even with our massive database.,Low,09/05/2025,0.5994,Positive
+137,208912,Account,Higher ROI than the previous vendor we used. Great value.,Low,15/03/2025,0.7579,Positive
+137,837995,Account,The latest feature release is exactly what we were looking for.,Low,28/01/2025,0.75,Positive
+138,554287,Account,How do I reset the password for a sub-user?,Low,18/03/2025,0.0,Neutral
+138,610029,Technical,Integration with Slack was seamless. Love the notifications.,Low,11/01/2025,0.6369,Positive
+138,543419,Account,The latest feature release is exactly what we were looking for.,Low,20/05/2025,0.75,Positive
+138,245730,Technical,API documentation is inconsistent with the actual endpoints.,Low,22/05/2025,-0.75,Negative
+139,698716,Account,Requesting a copy of the latest SOC2 Type II report.,Low,27/04/2025,0.0,Neutral
+139,522976,Account,Pricing has increased 20% but we haven't seen any new features in months.,High,28/05/2025,-0.4118,Negative
+139,788434,Account,The dashboard is beautiful and very intuitive for our executives.,Low,11/01/2025,0.5994,Positive
+139,143656,Account,Higher ROI than the previous vendor we used. Great value.,Low,01/04/2025,0.7579,Positive
+139,384756,Technical,API documentation is inconsistent with the actual endpoints.,Low,29/01/2025,-0.75,Negative
+139,287015,Account,UI is extremely sluggish when loading large datasets. Unusable for our team.,High,21/01/2025,-0.4576,Negative
+140,502193,Technical,API documentation is inconsistent with the actual endpoints.,Low,30/04/2025,-0.75,Negative
+140,373754,Account,Security audit failed due to your outdated SSO implementation.,Low,17/03/2025,-0.2263,Negative
+140,894829,Account,Too many clicks to reach the main dashboard. UX is frustrating.,High,06/03/2025,-0.4215,Negative
+140,886751,Account,The latest feature release is exactly what we were looking for.,Low,12/01/2025,0.75,Positive
+140,823292,Account,Super fast load times even with our massive database.,Low,12/05/2025,0.5994,Positive
+140,680873,Technical,The Salesforce integration is dropping leads; this is costing us revenue.,Low,13/02/2025,-0.75,Negative
+141,219223,Account,Updating our billing address who should I send this to?,Low,29/05/2025,0.0,Neutral
+141,460000,Account,Bulk export to CSV keeps timing out for our Enterprise account.,Low,12/01/2025,-0.75,Negative
+141,644535,Account,Higher ROI than the previous vendor we used. Great value.,Low,21/03/2025,0.7579,Positive
+142,988991,Account,How do I reset the password for a sub-user?,Low,25/05/2025,0.0,Neutral
+142,142660,Account,The dashboard is beautiful and very intuitive for our executives.,Low,22/01/2025,0.5994,Positive
+143,340857,Technical,Is there a limit on the number of API calls per minute?,Low,05/04/2025,0.0,Neutral
+143,545593,Account,UI is extremely sluggish when loading large datasets. Unusable for our team.,High,25/03/2025,-0.4576,Negative
+143,533767,Account,The new automated workflow saved our team 10 hours this week!,Low,15/04/2025,0.4753,Positive
+143,222425,Account,Our procurement department is questioning the ROI of this contract.,Low,21/02/2025,-0.1027,Negative
+144,878278,Technical,Integration with Slack was seamless. Love the notifications.,Low,24/03/2025,0.6369,Positive
+144,644315,Account,Updating our billing address who should I send this to?,Low,23/05/2025,0.0,Neutral
+144,148770,Account,"Major regression found in the latest deployment, reporting is broken.",High,02/02/2025,-0.4767,Negative
+144,820265,Technical,API documentation is inconsistent with the actual endpoints.,Low,21/01/2025,-0.75,Negative
+145,154715,Technical,Best-in-class API documentation. We got up and running in a day.,Low,06/03/2025,0.75,Positive
+145,471788,Account,The mobile app is crashing on startup after the iOS update.,Low,25/04/2025,-0.75,Negative
+145,489592,Account,Pricing has increased 20% but we haven't seen any new features in months.,High,01/03/2025,-0.4118,Negative
+145,575355,Account,UI is extremely sluggish when loading large datasets. Unusable for our team.,High,22/02/2025,-0.4576,Negative
+145,915960,Account,"Major regression found in the latest deployment, reporting is broken.",High,16/03/2025,-0.4767,Negative
+145,767387,Technical,API documentation is inconsistent with the actual endpoints.,Low,10/04/2025,-0.75,Negative
+145,789917,Account,Bulk export to CSV keeps timing out for our Enterprise account.,Low,23/02/2025,-0.75,Negative
+146,725928,Account,Quick question about the upcoming webinar schedule.,Low,25/02/2025,0.0,Neutral
+146,407821,Account,The custom reporting tool is a game changer for our QBRs.,Low,03/02/2025,0.75,Positive
+147,933363,Account,Bulk export to CSV keeps timing out for our Enterprise account.,Low,07/04/2025,-0.75,Negative
+147,426271,Technical,API documentation is inconsistent with the actual endpoints.,Low,03/05/2025,-0.75,Negative
+147,974924,Account,"Major regression found in the latest deployment, reporting is broken.",High,10/03/2025,-0.4767,Negative
+147,664065,Account,Super fast load times even with our massive database.,Low,07/02/2025,0.5994,Positive
+148,323930,Account,Bulk export to CSV keeps timing out for our Enterprise account.,Low,16/03/2025,-0.75,Negative
+148,955216,Account,Requesting a copy of the latest SOC2 Type II report.,Low,06/03/2025,0.0,Neutral
+149,927918,Account,The dashboard is beautiful and very intuitive for our executives.,Low,11/02/2025,0.5994,Positive
+150,151572,Account,UI is extremely sluggish when loading large datasets. Unusable for our team.,High,10/04/2025,-0.4576,Negative
+150,190259,Account,The latest feature release is exactly what we were looking for.,Low,01/02/2025,0.75,Positive
+150,540795,Account,Pricing has increased 20% but we haven't seen any new features in months.,High,13/01/2025,-0.4118,Negative
+150,994859,Technical,API documentation is inconsistent with the actual endpoints.,Low,18/01/2025,-0.75,Negative
+151,424159,Technical,The Salesforce integration is dropping leads; this is costing us revenue.,Low,01/05/2025,-0.75,Negative
+151,709768,Technical,API documentation is inconsistent with the actual endpoints.,Low,11/04/2025,-0.75,Negative
+151,362978,Account,Updating our billing address who should I send this to?,Low,07/02/2025,0.0,Neutral
+151,715321,Account,Incredible response time from the technical support team.,Low,03/01/2025,0.4019,Positive
+152,129086,Technical,API documentation is inconsistent with the actual endpoints.,Low,01/05/2025,-0.75,Negative
+153,264030,Account,Updating our billing address who should I send this to?,Low,26/03/2025,0.0,Neutral
+154,644810,Account,Pricing has increased 20% but we haven't seen any new features in months.,High,27/02/2025,-0.4118,Negative
+154,982234,Technical,Integration with Slack was seamless. Love the notifications.,Low,28/05/2025,0.6369,Positive
+155,430326,Account,Updating our billing address who should I send this to?,Low,11/02/2025,0.0,Neutral
+155,293188,Account,The mobile app is crashing on startup after the iOS update.,Low,31/01/2025,-0.75,Negative
+155,490582,Technical,The Salesforce integration is dropping leads; this is costing us revenue.,Low,12/01/2025,-0.75,Negative
+156,300245,Account,How do I reset the password for a sub-user?,Low,16/03/2025,0.0,Neutral
+156,107769,Account,The dashboard is beautiful and very intuitive for our executives.,Low,07/02/2025,0.5994,Positive
+156,503179,Account,Quick question about the upcoming webinar schedule.,Low,18/03/2025,0.0,Neutral
+157,723083,Account,Higher ROI than the previous vendor we used. Great value.,Low,31/05/2025,0.7579,Positive
+158,316115,Account,Our procurement department is questioning the ROI of this contract.,Low,20/05/2025,-0.1027,Negative
+158,488348,Account,Higher ROI than the previous vendor we used. Great value.,Low,10/03/2025,0.7579,Positive
+158,356596,Account,Requesting a copy of the latest SOC2 Type II report.,Low,04/05/2025,0.0,Neutral
+158,334193,Account,The latest feature release is exactly what we were looking for.,Low,06/03/2025,0.75,Positive
+159,508980,Technical,Integration with Slack was seamless. Love the notifications.,Low,27/05/2025,0.6369,Positive
+160,290510,Account,Super fast load times even with our massive database.,Low,18/05/2025,0.5994,Positive
+160,506208,Account,The custom reporting tool is a game changer for our QBRs.,Low,23/04/2025,0.75,Positive
+161,721409,Account,Really appreciate the proactive check-in from our Success Manager.,Low,28/05/2025,0.8676,Positive
+161,574576,Account,The dashboard is beautiful and very intuitive for our executives.,Low,15/02/2025,0.5994,Positive
+161,889488,Technical,Best-in-class API documentation. We got up and running in a day.,Low,27/03/2025,0.75,Positive
+161,826588,Technical,Is there a limit on the number of API calls per minute?,Low,12/05/2025,0.0,Neutral
+162,620689,Technical,Best-in-class API documentation. We got up and running in a day.,Low,30/01/2025,0.75,Positive
+162,362631,Account,Higher ROI than the previous vendor we used. Great value.,Low,13/03/2025,0.7579,Positive
+162,886818,Account,Bulk export to CSV keeps timing out for our Enterprise account.,Low,22/02/2025,-0.75,Negative
+163,360169,Account,Super fast load times even with our massive database.,Low,16/01/2025,0.5994,Positive
+163,516803,Account,"Major regression found in the latest deployment, reporting is broken.",High,09/02/2025,-0.4767,Negative
+163,884504,Account,Does the current plan support multi-factor authentication?,Low,26/04/2025,0.0,Neutral
+164,734106,Technical,API documentation is inconsistent with the actual endpoints.,Low,08/01/2025,-0.75,Negative
+164,937814,Account,The mobile app is crashing on startup after the iOS update.,Low,24/01/2025,-0.75,Negative
+164,195856,Account,The latest feature release is exactly what we were looking for.,Low,18/02/2025,0.75,Positive
+165,346082,Account,The custom reporting tool is a game changer for our QBRs.,Low,01/03/2025,0.75,Positive
+166,304383,Technical,API documentation is inconsistent with the actual endpoints.,Low,06/03/2025,-0.75,Negative
+166,835608,Account,Really appreciate the proactive check-in from our Success Manager.,Low,10/02/2025,0.8676,Positive
+167,168134,Account,Security audit failed due to your outdated SSO implementation.,Low,20/02/2025,-0.2263,Negative
+167,901908,Account,The latest feature release is exactly what we were looking for.,Low,06/05/2025,0.75,Positive
+167,935922,Account,"Major regression found in the latest deployment, reporting is broken.",High,25/05/2025,-0.4767,Negative
+168,185672,Account,The latest feature release is exactly what we were looking for.,Low,11/01/2025,0.75,Positive
+168,190931,Account,Incredible response time from the technical support team.,Low,23/01/2025,0.4019,Positive
+169,506166,Account,The dashboard is beautiful and very intuitive for our executives.,Low,09/04/2025,0.5994,Positive
+169,933806,Account,The latest feature release is exactly what we were looking for.,Low,01/03/2025,0.75,Positive
+169,384462,Account,How do I reset the password for a sub-user?,Low,01/04/2025,0.0,Neutral
+169,162297,Account,UI is extremely sluggish when loading large datasets. Unusable for our team.,High,29/04/2025,-0.4576,Negative
+169,470806,Technical,API documentation is inconsistent with the actual endpoints.,Low,25/02/2025,-0.75,Negative
+170,732379,Account,The mobile app is crashing on startup after the iOS update.,Low,18/01/2025,-0.75,Negative
+171,833689,Technical,API documentation is inconsistent with the actual endpoints.,Low,04/04/2025,-0.75,Negative
+171,974659,Account,UI is extremely sluggish when loading large datasets. Unusable for our team.,High,30/04/2025,-0.4576,Negative
+171,410409,Account,Bulk export to CSV keeps timing out for our Enterprise account.,Low,20/04/2025,-0.75,Negative
+171,531510,Account,The mobile app is crashing on startup after the iOS update.,Low,10/04/2025,-0.75,Negative
+171,503627,Account,Pricing has increased 20% but we haven't seen any new features in months.,High,12/05/2025,-0.4118,Negative
+171,585248,Account,Too many clicks to reach the main dashboard. UX is frustrating.,High,06/03/2025,-0.4215,Negative
+172,171035,Technical,Best-in-class API documentation. We got up and running in a day.,Low,25/05/2025,0.75,Positive
+172,386640,Account,Really appreciate the proactive check-in from our Success Manager.,Low,01/01/2025,0.8676,Positive
+172,968786,Technical,Integration with Slack was seamless. Love the notifications.,Low,06/01/2025,0.6369,Positive
+173,121902,Account,Updating our billing address who should I send this to?,Low,16/04/2025,0.0,Neutral
+173,740715,Account,Our procurement department is questioning the ROI of this contract.,High,11/05/2025,-0.1027,Negative
+173,552189,Account,The mobile app is crashing on startup after the iOS update.,Low,31/01/2025,-0.75,Negative
+173,212130,Account,Incredible response time from the technical support team.,Low,29/03/2025,0.4019,Positive
+173,893589,Account,Requesting a copy of the latest SOC2 Type II report.,Low,19/01/2025,0.0,Neutral
+173,834748,Account,Super fast load times even with our massive database.,Low,27/01/2025,0.5994,Positive
+174,835517,Technical,The Salesforce integration is dropping leads; this is costing us revenue.,Low,02/02/2025,-0.75,Negative
+174,698552,Account,Security audit failed due to your outdated SSO implementation.,High,25/03/2025,-0.2263,Negative
+174,622998,Account,The mobile app is crashing on startup after the iOS update.,Low,23/05/2025,-0.75,Negative
+174,844455,Account,Incredible response time from the technical support team.,Low,29/04/2025,0.4019,Positive
+174,469654,Account,Too many clicks to reach the main dashboard. UX is frustrating.,High,14/02/2025,-0.4215,Negative
+174,949571,Account,Requesting a copy of the latest SOC2 Type II report.,Low,22/02/2025,0.0,Neutral
+175,774375,Technical,The Salesforce integration is dropping leads; this is costing us revenue.,Low,26/03/2025,-0.75,Negative
+175,590055,Account,Pricing has increased 20% but we haven't seen any new features in months.,High,30/03/2025,-0.4118,Negative
+175,293071,Account,How do I reset the password for a sub-user?,Low,27/05/2025,0.0,Neutral
+175,244194,Account,"Major regression found in the latest deployment, reporting is broken.",High,15/04/2025,-0.4767,Negative
+175,776868,Account,Does the current plan support multi-factor authentication?,Low,06/03/2025,0.0,Neutral
+176,958343,Account,The new automated workflow saved our team 10 hours this week!,Low,08/01/2025,0.4753,Positive
+177,467013,Account,Does the current plan support multi-factor authentication?,Low,28/03/2025,0.0,Neutral
+177,798067,Technical,API documentation is inconsistent with the actual endpoints.,Low,28/01/2025,-0.75,Negative
+178,420782,Account,Does the current plan support multi-factor authentication?,Low,16/02/2025,0.0,Neutral
+178,629110,Account,How do I reset the password for a sub-user?,Low,08/03/2025,0.0,Neutral
+178,371345,Account,Requesting a copy of the latest SOC2 Type II report.,Low,19/04/2025,0.0,Neutral
+179,482028,Technical,The Salesforce integration is dropping leads; this is costing us revenue.,Low,25/03/2025,-0.75,Negative
+179,319881,Account,The mobile app is crashing on startup after the iOS update.,Low,13/04/2025,-0.75,Negative
+179,632165,Technical,API documentation is inconsistent with the actual endpoints.,Low,27/04/2025,-0.75,Negative
+179,382539,Account,Quick question about the upcoming webinar schedule.,Low,27/03/2025,0.0,Neutral
+179,752976,Account,Bulk export to CSV keeps timing out for our Enterprise account.,Low,11/02/2025,-0.75,Negative
+179,601428,Account,UI is extremely sluggish when loading large datasets. Unusable for our team.,High,18/04/2025,-0.4576,Negative
+180,639601,Technical,Integration with Slack was seamless. Love the notifications.,Low,22/03/2025,0.6369,Positive
+180,191842,Technical,API documentation is inconsistent with the actual endpoints.,Low,07/03/2025,-0.75,Negative
+181,494373,Account,Super fast load times even with our massive database.,Low,04/03/2025,0.5994,Positive
+182,355497,Account,Incredible response time from the technical support team.,Low,18/05/2025,0.4019,Positive
+182,273180,Account,The dashboard is beautiful and very intuitive for our executives.,Low,07/02/2025,0.5994,Positive
+182,540255,Account,Our procurement department is questioning the ROI of this contract.,Low,18/05/2025,-0.1027,Negative
+182,145743,Account,Does the current plan support multi-factor authentication?,Low,28/04/2025,0.0,Neutral
+183,223757,Technical,Is there a limit on the number of API calls per minute?,Low,10/01/2025,0.0,Neutral
+184,614424,Account,The new automated workflow saved our team 10 hours this week!,Low,02/03/2025,0.4753,Positive
+184,108445,Account,Requesting a copy of the latest SOC2 Type II report.,Low,07/04/2025,0.0,Neutral
+184,749646,Account,The custom reporting tool is a game changer for our QBRs.,Low,09/05/2025,0.75,Positive
+185,980896,Account,Our procurement department is questioning the ROI of this contract.,High,10/01/2025,-0.1027,Negative
+185,884263,Account,The mobile app is crashing on startup after the iOS update.,Low,01/02/2025,-0.75,Negative
+185,343987,Account,UI is extremely sluggish when loading large datasets. Unusable for our team.,High,03/01/2025,-0.4576,Negative
+185,133632,Account,Pricing has increased 20% but we haven't seen any new features in months.,High,21/02/2025,-0.4118,Negative
+185,268506,Account,The dashboard is beautiful and very intuitive for our executives.,Low,12/01/2025,0.5994,Positive
+185,975869,Technical,The Salesforce integration is dropping leads; this is costing us revenue.,Low,15/04/2025,-0.75,Negative
+186,450001,Account,Too many clicks to reach the main dashboard. UX is frustrating.,High,24/01/2025,-0.4215,Negative
+186,689889,Account,Requesting a copy of the latest SOC2 Type II report.,Low,28/03/2025,0.0,Neutral
+187,335018,Account,How do I reset the password for a sub-user?,Low,15/03/2025,0.0,Neutral
+188,781046,Account,The custom reporting tool is a game changer for our QBRs.,Low,25/04/2025,0.75,Positive
+188,708616,Account,"Major regression found in the latest deployment, reporting is broken.",High,10/01/2025,-0.4767,Negative
+188,130152,Account,Really appreciate the proactive check-in from our Success Manager.,Low,21/05/2025,0.8676,Positive
+188,840782,Account,Updating our billing address who should I send this to?,Low,16/05/2025,0.0,Neutral
+189,356343,Account,Higher ROI than the previous vendor we used. Great value.,Low,20/03/2025,0.7579,Positive
+190,966023,Technical,Is there a limit on the number of API calls per minute?,Low,27/04/2025,0.0,Neutral
+190,911851,Account,Too many clicks to reach the main dashboard. UX is frustrating.,High,24/05/2025,-0.4215,Negative
+190,680907,Technical,Best-in-class API documentation. We got up and running in a day.,Low,09/05/2025,0.75,Positive
+190,313086,Account,Super fast load times even with our massive database.,Low,26/03/2025,0.5994,Positive
+191,715142,Account,Incredible response time from the technical support team.,Low,21/04/2025,0.4019,Positive
+191,740452,Account,How do I reset the password for a sub-user?,Low,10/01/2025,0.0,Neutral
+191,309297,Account,Too many clicks to reach the main dashboard. UX is frustrating.,High,26/02/2025,-0.4215,Negative
+191,206108,Account,"Major regression found in the latest deployment, reporting is broken.",High,24/02/2025,-0.4767,Negative
+191,126337,Account,Pricing has increased 20% but we haven't seen any new features in months.,High,22/03/2025,-0.4118,Negative
+192,763874,Account,Requesting a copy of the latest SOC2 Type II report.,Low,04/02/2025,0.0,Neutral
+192,962514,Account,Super fast load times even with our massive database.,Low,04/03/2025,0.5994,Positive
+193,700056,Technical,Integration with Slack was seamless. Love the notifications.,Low,12/05/2025,0.6369,Positive
+193,303950,Account,Our procurement department is questioning the ROI of this contract.,High,23/01/2025,-0.1027,Negative
+193,578024,Account,Security audit failed due to your outdated SSO implementation.,High,26/04/2025,-0.2263,Negative
+193,966478,Account,"Major regression found in the latest deployment, reporting is broken.",High,28/05/2025,-0.4767,Negative
+194,311302,Account,Our procurement department is questioning the ROI of this contract.,Low,21/02/2025,-0.1027,Negative
+194,743862,Account,Incredible response time from the technical support team.,Low,17/03/2025,0.4019,Positive
+195,584644,Account,Requesting a copy of the latest SOC2 Type II report.,Low,15/04/2025,0.0,Neutral
+195,627841,Technical,Best-in-class API documentation. We got up and running in a day.,Low,24/05/2025,0.75,Positive
+196,674811,Account,Really appreciate the proactive check-in from our Success Manager.,Low,30/05/2025,0.8676,Positive
+196,857191,Account,Too many clicks to reach the main dashboard. UX is frustrating.,High,17/02/2025,-0.4215,Negative
+196,776879,Account,The dashboard is beautiful and very intuitive for our executives.,Low,10/04/2025,0.5994,Positive
+196,233288,Account,The latest feature release is exactly what we were looking for.,Low,15/05/2025,0.75,Positive
+197,329063,Technical,The Salesforce integration is dropping leads; this is costing us revenue.,Low,12/02/2025,-0.75,Negative
+197,219601,Account,Pricing has increased 20% but we haven't seen any new features in months.,High,14/04/2025,-0.4118,Negative
+197,759124,Account,"Major regression found in the latest deployment, reporting is broken.",High,06/04/2025,-0.4767,Negative
+197,616990,Account,Too many clicks to reach the main dashboard. UX is frustrating.,High,27/02/2025,-0.4215,Negative
+197,755951,Account,Security audit failed due to your outdated SSO implementation.,High,22/02/2025,-0.2263,Negative
+197,252665,Account,UI is extremely sluggish when loading large datasets. Unusable for our team.,High,21/05/2025,-0.4576,Negative
+198,988077,Account,UI is extremely sluggish when loading large datasets. Unusable for our team.,High,09/05/2025,-0.4576,Negative
+198,513410,Account,Security audit failed due to your outdated SSO implementation.,High,11/02/2025,-0.2263,Negative
+198,823675,Technical,The Salesforce integration is dropping leads; this is costing us revenue.,Low,05/03/2025,-0.75,Negative
+198,897744,Account,Bulk export to CSV keeps timing out for our Enterprise account.,Low,19/05/2025,-0.75,Negative
+198,358147,Account,Pricing has increased 20% but we haven't seen any new features in months.,High,28/03/2025,-0.4118,Negative
+198,562731,Technical,Integration with Slack was seamless. Love the notifications.,Low,04/02/2025,0.6369,Positive
+198,566387,Account,Updating our billing address who should I send this to?,Low,29/01/2025,0.0,Neutral
+199,777825,Account,The custom reporting tool is a game changer for our QBRs.,Low,01/01/2025,0.75,Positive
+200,915264,Account,Bulk export to CSV keeps timing out for our Enterprise account.,Low,06/05/2025,-0.75,Negative
+200,920055,Account,The latest feature release is exactly what we were looking for.,Low,13/02/2025,0.75,Positive
+201,716633,Account,The mobile app is crashing on startup after the iOS update.,Low,12/03/2025,-0.75,Negative
+201,617635,Account,Super fast load times even with our massive database.,Low,17/04/2025,0.5994,Positive
+201,653648,Account,"Major regression found in the latest deployment, reporting is broken.",High,26/04/2025,-0.4767,Negative
+202,185501,Technical,Is there a limit on the number of API calls per minute?,Low,07/02/2025,0.0,Neutral
+203,961262,Account,Our procurement department is questioning the ROI of this contract.,High,23/04/2025,-0.1027,Negative
+203,135831,Account,"Major regression found in the latest deployment, reporting is broken.",High,02/04/2025,-0.4767,Negative
+203,492469,Account,Incredible response time from the technical support team.,Low,02/04/2025,0.4019,Positive
+204,342005,Account,Too many clicks to reach the main dashboard. UX is frustrating.,High,07/04/2025,-0.4215,Negative
+204,527008,Account,Our procurement department is questioning the ROI of this contract.,High,18/01/2025,-0.1027,Negative
+205,163560,Account,Our procurement department is questioning the ROI of this contract.,Low,22/03/2025,-0.1027,Negative
+205,204359,Account,The dashboard is beautiful and very intuitive for our executives.,Low,18/01/2025,0.5994,Positive
+206,202540,Account,The dashboard is beautiful and very intuitive for our executives.,Low,12/04/2025,0.5994,Positive
+206,173233,Account,The custom reporting tool is a game changer for our QBRs.,Low,07/02/2025,0.75,Positive
+206,813234,Account,Really appreciate the proactive check-in from our Success Manager.,Low,08/05/2025,0.8676,Positive
+207,272224,Account,Really appreciate the proactive check-in from our Success Manager.,Low,07/04/2025,0.8676,Positive
+207,715218,Account,"Major regression found in the latest deployment, reporting is broken.",High,23/02/2025,-0.4767,Negative
+208,884115,Account,Can you provide the IP range for whitelisting?,Low,17/04/2025,0.0,Neutral
+209,351598,Account,Higher ROI than the previous vendor we used. Great value.,Low,27/01/2025,0.7579,Positive
+209,885745,Account,Quick question about the upcoming webinar schedule.,Low,25/01/2025,0.0,Neutral
+209,961483,Account,The latest feature release is exactly what we were looking for.,Low,11/02/2025,0.75,Positive
+209,433635,Account,The custom reporting tool is a game changer for our QBRs.,Low,05/02/2025,0.75,Positive
+210,431947,Account,The latest feature release is exactly what we were looking for.,Low,22/04/2025,0.75,Positive
+210,576272,Account,Does the current plan support multi-factor authentication?,Low,15/01/2025,0.0,Neutral
+210,151309,Account,Can you provide the IP range for whitelisting?,Low,09/04/2025,0.0,Neutral
+210,546281,Technical,Best-in-class API documentation. We got up and running in a day.,Low,21/03/2025,0.75,Positive
+210,639130,Account,Bulk export to CSV keeps timing out for our Enterprise account.,Low,02/02/2025,-0.75,Negative
+210,317170,Account,Our procurement department is questioning the ROI of this contract.,High,13/01/2025,-0.1027,Negative
+210,525680,Technical,API documentation is inconsistent with the actual endpoints.,Low,21/04/2025,-0.75,Negative
+210,939922,Account,The mobile app is crashing on startup after the iOS update.,Low,12/04/2025,-0.75,Negative
+211,988609,Technical,Best-in-class API documentation. We got up and running in a day.,Low,07/02/2025,0.75,Positive
+211,849570,Account,Super fast load times even with our massive database.,Low,30/03/2025,0.5994,Positive
+212,374613,Account,The latest feature release is exactly what we were looking for.,Low,30/03/2025,0.75,Positive
+212,998904,Account,Updating our billing address who should I send this to?,Low,16/02/2025,0.0,Neutral
+213,991475,Account,Incredible response time from the technical support team.,Low,26/03/2025,0.4019,Positive
+213,537711,Account,Security audit failed due to your outdated SSO implementation.,Low,20/02/2025,-0.2263,Negative
+213,239867,Account,The mobile app is crashing on startup after the iOS update.,Low,05/04/2025,-0.75,Negative
+213,980376,Technical,Best-in-class API documentation. We got up and running in a day.,Low,30/05/2025,0.75,Positive
+214,747602,Account,UI is extremely sluggish when loading large datasets. Unusable for our team.,High,29/05/2025,-0.4576,Negative
+214,629197,Account,The new automated workflow saved our team 10 hours this week!,Low,07/03/2025,0.4753,Positive
+214,171112,Technical,The Salesforce integration is dropping leads; this is costing us revenue.,Low,28/03/2025,-0.75,Negative
+214,772652,Technical,API documentation is inconsistent with the actual endpoints.,Low,27/03/2025,-0.75,Negative
+215,114381,Account,Bulk export to CSV keeps timing out for our Enterprise account.,Low,05/05/2025,-0.75,Negative
+215,641145,Account,Higher ROI than the previous vendor we used. Great value.,Low,24/02/2025,0.7579,Positive
+215,718229,Account,The mobile app is crashing on startup after the iOS update.,Low,01/05/2025,-0.75,Negative
+216,339617,Account,The mobile app is crashing on startup after the iOS update.,Low,02/02/2025,-0.75,Negative
+216,256563,Account,The custom reporting tool is a game changer for our QBRs.,Low,07/05/2025,0.75,Positive
+216,276536,Account,Security audit failed due to your outdated SSO implementation.,Low,23/04/2025,-0.2263,Negative
+216,679430,Account,Really appreciate the proactive check-in from our Success Manager.,Low,08/02/2025,0.8676,Positive
+217,238718,Account,The mobile app is crashing on startup after the iOS update.,Low,23/01/2025,-0.75,Negative
+217,649220,Account,UI is extremely sluggish when loading large datasets. Unusable for our team.,High,09/05/2025,-0.4576,Negative
+217,727846,Account,Our procurement department is questioning the ROI of this contract.,High,02/02/2025,-0.1027,Negative
+217,379782,Account,Pricing has increased 20% but we haven't seen any new features in months.,High,23/03/2025,-0.4118,Negative
+218,223801,Account,Our procurement department is questioning the ROI of this contract.,Low,19/03/2025,-0.1027,Negative
+218,970698,Technical,Is there a limit on the number of API calls per minute?,Low,08/05/2025,0.0,Neutral
+218,596543,Account,Super fast load times even with our massive database.,Low,23/02/2025,0.5994,Positive
+218,193064,Account,Too many clicks to reach the main dashboard. UX is frustrating.,High,26/03/2025,-0.4215,Negative
+219,563340,Account,"Major regression found in the latest deployment, reporting is broken.",High,01/04/2025,-0.4767,Negative
+220,331804,Technical,API documentation is inconsistent with the actual endpoints.,Low,22/03/2025,-0.75,Negative
+221,650702,Account,Incredible response time from the technical support team.,Low,26/01/2025,0.4019,Positive
+221,594920,Account,Super fast load times even with our massive database.,Low,29/01/2025,0.5994,Positive
+221,839266,Account,Our procurement department is questioning the ROI of this contract.,Low,29/03/2025,-0.1027,Negative
+222,667297,Account,Super fast load times even with our massive database.,Low,10/02/2025,0.5994,Positive
+222,694826,Account,Quick question about the upcoming webinar schedule.,Low,16/03/2025,0.0,Neutral
+223,246986,Account,How do I reset the password for a sub-user?,Low,13/02/2025,0.0,Neutral
+223,319752,Technical,Integration with Slack was seamless. Love the notifications.,Low,29/04/2025,0.6369,Positive
+223,120187,Account,Super fast load times even with our massive database.,Low,29/04/2025,0.5994,Positive
+224,298465,Account,Incredible response time from the technical support team.,Low,20/03/2025,0.4019,Positive
+224,291781,Account,Bulk export to CSV keeps timing out for our Enterprise account.,Low,24/03/2025,-0.75,Negative
+224,495899,Account,The dashboard is beautiful and very intuitive for our executives.,Low,09/01/2025,0.5994,Positive
+224,273312,Account,Quick question about the upcoming webinar schedule.,Low,10/04/2025,0.0,Neutral
+225,108623,Account,Really appreciate the proactive check-in from our Success Manager.,Low,16/05/2025,0.8676,Positive
+225,617398,Account,Bulk export to CSV keeps timing out for our Enterprise account.,Low,29/04/2025,-0.75,Negative
+225,183812,Account,Higher ROI than the previous vendor we used. Great value.,Low,12/05/2025,0.7579,Positive
+226,663045,Account,Requesting a copy of the latest SOC2 Type II report.,Low,09/03/2025,0.0,Neutral
+226,393966,Account,"Major regression found in the latest deployment, reporting is broken.",High,05/04/2025,-0.4767,Negative
+227,526053,Account,"Major regression found in the latest deployment, reporting is broken.",High,15/01/2025,-0.4767,Negative
+228,181607,Technical,Is there a limit on the number of API calls per minute?,Low,13/01/2025,0.0,Neutral
+228,537794,Account,The mobile app is crashing on startup after the iOS update.,Low,21/02/2025,-0.75,Negative
+228,169046,Account,UI is extremely sluggish when loading large datasets. Unusable for our team.,High,22/03/2025,-0.4576,Negative
+228,336975,Account,Pricing has increased 20% but we haven't seen any new features in months.,High,12/03/2025,-0.4118,Negative
+228,340105,Technical,The Salesforce integration is dropping leads; this is costing us revenue.,Low,14/05/2025,-0.75,Negative
+228,890379,Account,The latest feature release is exactly what we were looking for.,Low,10/02/2025,0.75,Positive
+229,549322,Technical,The Salesforce integration is dropping leads; this is costing us revenue.,Low,17/03/2025,-0.75,Negative
+229,854235,Account,Too many clicks to reach the main dashboard. UX is frustrating.,High,12/01/2025,-0.4215,Negative
+229,881112,Account,Our procurement department is questioning the ROI of this contract.,Low,02/03/2025,-0.1027,Negative
+230,625990,Account,The mobile app is crashing on startup after the iOS update.,Low,02/01/2025,-0.75,Negative
+230,718159,Account,Our procurement department is questioning the ROI of this contract.,Low,30/04/2025,-0.1027,Negative
+230,189951,Technical,API documentation is inconsistent with the actual endpoints.,Low,28/01/2025,-0.75,Negative
+230,713004,Account,Can you provide the IP range for whitelisting?,Low,07/03/2025,0.0,Neutral
+230,549467,Account,Really appreciate the proactive check-in from our Success Manager.,Low,01/01/2025,0.8676,Positive
+231,864937,Account,Really appreciate the proactive check-in from our Success Manager.,Low,21/01/2025,0.8676,Positive
+231,420900,Account,Pricing has increased 20% but we haven't seen any new features in months.,High,20/01/2025,-0.4118,Negative
+231,338577,Technical,Best-in-class API documentation. We got up and running in a day.,Low,07/05/2025,0.75,Positive
+231,387133,Technical,Integration with Slack was seamless. Love the notifications.,Low,03/02/2025,0.6369,Positive
+231,910957,Account,Bulk export to CSV keeps timing out for our Enterprise account.,Low,25/03/2025,-0.75,Negative
+232,386530,Account,Security audit failed due to your outdated SSO implementation.,Low,11/05/2025,-0.2263,Negative
+232,939340,Account,The new automated workflow saved our team 10 hours this week!,Low,14/02/2025,0.4753,Positive
+232,856172,Technical,API documentation is inconsistent with the actual endpoints.,Low,17/04/2025,-0.75,Negative
+233,602113,Account,Too many clicks to reach the main dashboard. UX is frustrating.,High,21/03/2025,-0.4215,Negative
+233,167893,Account,The latest feature release is exactly what we were looking for.,Low,02/03/2025,0.75,Positive
+233,506359,Account,The new automated workflow saved our team 10 hours this week!,Low,25/01/2025,0.4753,Positive
+234,894491,Technical,API documentation is inconsistent with the actual endpoints.,Low,11/05/2025,-0.75,Negative
+234,333537,Account,Super fast load times even with our massive database.,Low,14/04/2025,0.5994,Positive
+234,598367,Account,"Major regression found in the latest deployment, reporting is broken.",High,19/01/2025,-0.4767,Negative
+234,839769,Account,Too many clicks to reach the main dashboard. UX is frustrating.,High,24/05/2025,-0.4215,Negative
+235,736165,Account,Where can I find the invoice for March 2025?,Low,30/05/2025,0.0,Neutral
+235,889560,Account,The dashboard is beautiful and very intuitive for our executives.,Low,21/04/2025,0.5994,Positive
+235,926681,Account,Quick question about the upcoming webinar schedule.,Low,22/04/2025,0.0,Neutral
+235,713145,Account,Bulk export to CSV keeps timing out for our Enterprise account.,Low,02/03/2025,-0.75,Negative
+236,856633,Account,Updating our billing address who should I send this to?,Low,03/03/2025,0.0,Neutral
+236,142704,Account,The latest feature release is exactly what we were looking for.,Low,14/05/2025,0.75,Positive
+236,122627,Account,Really appreciate the proactive check-in from our Success Manager.,Low,05/01/2025,0.8676,Positive
+237,605158,Account,Really appreciate the proactive check-in from our Success Manager.,Low,18/05/2025,0.8676,Positive
+237,420152,Account,Bulk export to CSV keeps timing out for our Enterprise account.,Low,01/05/2025,-0.75,Negative
+238,219648,Account,The dashboard is beautiful and very intuitive for our executives.,Low,22/03/2025,0.5994,Positive
+239,928732,Account,Higher ROI than the previous vendor we used. Great value.,Low,30/04/2025,0.7579,Positive
+239,516745,Account,The latest feature release is exactly what we were looking for.,Low,15/03/2025,0.75,Positive
+239,514503,Account,Really appreciate the proactive check-in from our Success Manager.,Low,07/04/2025,0.8676,Positive
+240,503754,Technical,Best-in-class API documentation. We got up and running in a day.,Low,16/01/2025,0.75,Positive
+240,515329,Account,Quick question about the upcoming webinar schedule.,Low,23/05/2025,0.0,Neutral
+240,968036,Account,Security audit failed due to your outdated SSO implementation.,Low,04/02/2025,-0.2263,Negative
+241,405245,Account,The new automated workflow saved our team 10 hours this week!,Low,12/04/2025,0.4753,Positive
+241,147282,Account,Really appreciate the proactive check-in from our Success Manager.,Low,19/04/2025,0.8676,Positive
+241,325194,Account,The latest feature release is exactly what we were looking for.,Low,04/05/2025,0.75,Positive
+241,114157,Account,The dashboard is beautiful and very intuitive for our executives.,Low,04/03/2025,0.5994,Positive
+242,459855,Technical,API documentation is inconsistent with the actual endpoints.,Low,30/03/2025,-0.75,Negative
+242,369361,Account,The latest feature release is exactly what we were looking for.,Low,12/05/2025,0.75,Positive
+243,113076,Account,"Major regression found in the latest deployment, reporting is broken.",High,11/03/2025,-0.4767,Negative
+244,640170,Account,Incredible response time from the technical support team.,Low,09/05/2025,0.4019,Positive
+245,330569,Account,The latest feature release is exactly what we were looking for.,Low,28/02/2025,0.75,Positive
+245,764122,Account,The new automated workflow saved our team 10 hours this week!,Low,10/01/2025,0.4753,Positive
+245,428756,Technical,Best-in-class API documentation. We got up and running in a day.,Low,24/01/2025,0.75,Positive
+245,466952,Account,Requesting a copy of the latest SOC2 Type II report.,Low,18/05/2025,0.0,Neutral
+246,441332,Account,"Major regression found in the latest deployment, reporting is broken.",High,05/01/2025,-0.4767,Negative
+246,103029,Account,Incredible response time from the technical support team.,Low,21/05/2025,0.4019,Positive
+247,810364,Account,Higher ROI than the previous vendor we used. Great value.,Low,19/03/2025,0.7579,Positive
+247,493715,Account,Our procurement department is questioning the ROI of this contract.,Low,17/02/2025,-0.1027,Negative
+247,546525,Account,Quick question about the upcoming webinar schedule.,Low,19/03/2025,0.0,Neutral
+248,975161,Technical,The Salesforce integration is dropping leads; this is costing us revenue.,Low,10/03/2025,-0.75,Negative
+248,600097,Account,Requesting a copy of the latest SOC2 Type II report.,Low,26/01/2025,0.0,Neutral
+248,489599,Account,Too many clicks to reach the main dashboard. UX is frustrating.,High,29/04/2025,-0.4215,Negative
+249,506743,Technical,Integration with Slack was seamless. Love the notifications.,Low,08/04/2025,0.6369,Positive
+249,103739,Account,Really appreciate the proactive check-in from our Success Manager.,Low,25/03/2025,0.8676,Positive
+249,793750,Account,Super fast load times even with our massive database.,Low,26/01/2025,0.5994,Positive
+249,563876,Account,"Major regression found in the latest deployment, reporting is broken.",High,08/04/2025,-0.4767,Negative
+250,661288,Account,Quick question about the upcoming webinar schedule.,Low,14/05/2025,0.0,Neutral
+250,158244,Account,The new automated workflow saved our team 10 hours this week!,Low,10/04/2025,0.4753,Positive
+250,167430,Account,The latest feature release is exactly what we were looking for.,Low,26/05/2025,0.75,Positive
