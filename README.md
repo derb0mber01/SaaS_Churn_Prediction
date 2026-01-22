@@ -6,7 +6,7 @@ A B2B SaaS startup is growing rapidly but quietly losing customers. Revenue look
 
 Techinal Architecture:
 This repository contains a full-stack data engine:
-  - Data Generation (generate_saas_data.py): A Python-based engine that simulates 250 companies with realistic behavioral decay (15-20% monthly usage drops for churners).
+  - Data Generation: A Python-based engine that simulates 250 companies with realistic behavioral decay (15-20% monthly usage drops for churners).
   - NLP Pipeline: Sentiment scoring and topic extraction from unstructured support tickets.
   - Relational Schema
 
