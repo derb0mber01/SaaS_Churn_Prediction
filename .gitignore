@@ -66,3 +66,11 @@ pytest.ini
 
 # pyre
 .pyre/
+
+# Google Cloud Service Account Keys
+*.json
+
+# Slack
+.env
+
+
