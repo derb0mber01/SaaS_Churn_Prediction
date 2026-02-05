@@ -1,9 +1,8 @@
-#!/usr/bin/env python
 import pandas as pd
 import os
 
 # directory setup
-data_dir = r"C:\Users\uduok\git_folder\SaaS_Churn_Prediction\data"
+data_dir = r"C:\Users\uduok\git_folder\SaaS_Churn_Prediction\data\raw"
 file_path = os.path.join(data_dir, 'fact_support_tickets_scored.csv')
 
 def clean_sentiment_scores():

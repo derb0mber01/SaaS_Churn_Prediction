@@ -1,8 +1,3 @@
-#!/usr/bin/env python
-"""
-PROJECT: The Silent Churn Engine
-DESCRIPTION: Synthetic data generator for SaaS customer retention analysis.
-"""
 import pandas as pd
 import numpy as np
 import random
@@ -26,7 +21,7 @@ CHURN_RATE = 0.20
 TOTAL_CHURNERS = int(NUM_COMPANIES * CHURN_RATE)
 
 # set the target directory
-target_dir = r"C:\Users\uduok\git_folder\SaaS_Churn_Prediction\data"
+target_dir = r"C:\Users\uduok\git_folder\SaaS_Churn_Prediction\data\raw"
 
 # generate dim_customers
 customers = []

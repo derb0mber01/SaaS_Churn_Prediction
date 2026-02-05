@@ -1,0 +1,251 @@
+customer_id,company_name,segment,mrr,subscription_status,churn_probability,mrr_class,engagement,login_momentum,health_score,risk_category
+19,SaaS_Client_019,Enterprise,1092,Churned,60.8,Low MRR,34.0,-10.0,25.0,
+104,SaaS_Client_104,Enterprise,2309,Churned,65.4,Medium MRR,35.2,-7.7,25.7,
+86,SaaS_Client_086,Enterprise,5234,Churned,68.5,High MRR,36.5,-30.6,26.5,
+100,SaaS_Client_100,Enterprise,1594,Churned,79.7,Medium MRR,37.3,-13.6,26.7,
+62,SaaS_Client_062,Enterprise,7515,Churned,62.2,High MRR,36.6,6.9,26.8,
+116,SaaS_Client_116,Enterprise,6220,Churned,52.7,High MRR,36.4,-9.1,26.9,
+175,SaaS_Client_175,Enterprise,598,Churned,66.4,Low MRR,37.2,-51.0,27.0,
+185,SaaS_Client_185,Enterprise,2169,Churned,65.6,Medium MRR,37.1,32.5,27.0,
+231,SaaS_Client_231,Enterprise,718,Churned,39.1,Low MRR,36.1,-15.0,27.1,
+110,SaaS_Client_110,Enterprise,2415,Churned,48.3,Medium MRR,37.0,-11.4,27.5,
+230,SaaS_Client_230,Enterprise,3510,Churned,57.4,Medium MRR,37.5,-41.3,27.5,
+228,SaaS_Client_228,Enterprise,4431,Churned,63.5,Medium MRR,37.9,8.3,27.6,
+141,SaaS_Client_141,Enterprise,3927,Churned,49.9,Medium MRR,37.8,-10.9,28.0,
+101,SaaS_Client_101,Enterprise,5703,Churned,40.0,High MRR,37.4,-21.2,28.0,
+121,SaaS_Client_121,Enterprise,7968,Churned,57.1,High MRR,38.3,-29.6,28.1,
+198,SaaS_Client_198,Enterprise,7612,Churned,64.0,High MRR,39.0,0.0,28.4,
+45,SaaS_Client_045,Enterprise,5227,Active,50.0,High MRR,71.2,14.4,51.3,Medium Risk
+152,SaaS_Client_152,Enterprise,5920,Active,87.5,High MRR,73.2,1.5,51.6,High Risk
+24,SaaS_Client_024,Enterprise,2355,Active,68.8,Medium MRR,72.6,-10.7,51.8,Medium Risk
+61,SaaS_Client_061,Enterprise,1462,Active,63.7,Low MRR,72.9,6.3,52.1,Low Risk
+233,SaaS_Client_233,Enterprise,1427,Active,36.6,Low MRR,71.9,3.9,52.2,Low Risk
+227,SaaS_Client_227,Enterprise,6104,Active,73.8,High MRR,73.8,-14.9,52.4,Medium Risk
+70,SaaS_Client_070,Enterprise,3036,Active,44.0,Medium MRR,72.6,-0.7,52.5,Low Risk
+151,SaaS_Client_151,Enterprise,1982,Active,63.7,Medium MRR,73.7,10.1,52.7,Medium Risk
+63,SaaS_Client_063,Enterprise,6835,Active,72.9,High MRR,74.6,2.4,53.0,Medium Risk
+32,SaaS_Client_032,Enterprise,2270,Active,51.9,Medium MRR,73.8,-5.6,53.1,Medium Risk
+131,SaaS_Client_131,Enterprise,4609,Active,43.6,Medium MRR,73.9,18.5,53.4,Low Risk
+39,SaaS_Client_039,Enterprise,2913,Active,41.8,Medium MRR,73.9,6.9,53.5,Low Risk
+149,SaaS_Client_149,Enterprise,1771,Active,20.0,Medium MRR,73.2,-0.8,53.6,Low Risk
+114,SaaS_Client_114,Enterprise,7578,Active,46.5,High MRR,74.3,-5.6,53.6,Low Risk
+148,SaaS_Client_148,Enterprise,5938,Active,68.8,High MRR,75.2,1.6,53.6,Medium Risk
+8,SaaS_Client_008,Enterprise,7372,Active,55.1,High MRR,74.7,4.8,53.6,Medium Risk
+215,SaaS_Client_215,Enterprise,933,Active,62.4,Low MRR,75.0,-4.9,53.6,Low Risk
+202,SaaS_Client_202,Enterprise,711,Active,50.0,Low MRR,74.6,-5.0,53.7,Low Risk
+67,SaaS_Client_067,Enterprise,943,Active,53.7,Low MRR,74.7,-2.9,53.7,Low Risk
+41,SaaS_Client_041,Enterprise,7591,Active,42.4,High MRR,74.3,-6.9,53.7,Low Risk
+28,SaaS_Client_028,Enterprise,6602,Active,29.9,High MRR,73.8,6.8,53.8,Low Risk
+30,SaaS_Client_030,Enterprise,2262,Active,37.8,Medium MRR,74.2,3.8,53.8,Low Risk
+46,SaaS_Client_046,Enterprise,4960,Active,27.5,Medium MRR,73.9,0.0,53.9,Low Risk
+168,SaaS_Client_168,Enterprise,2133,Active,21.2,Medium MRR,73.8,11.9,54.0,Low Risk
+79,SaaS_Client_079,Enterprise,773,Active,31.3,Low MRR,74.4,-17.0,54.1,Low Risk
+132,SaaS_Client_132,Enterprise,4439,Active,50.9,Medium MRR,75.2,-5.2,54.1,Medium Risk
+150,SaaS_Client_150,Enterprise,2664,Active,60.9,Medium MRR,75.6,10.9,54.1,Medium Risk
+183,SaaS_Client_183,Enterprise,2097,Active,50.0,Medium MRR,75.3,-8.1,54.2,Medium Risk
+85,SaaS_Client_085,Enterprise,5789,Active,25.5,High MRR,74.3,3.9,54.2,Low Risk
+26,SaaS_Client_026,Enterprise,5587,Active,53.8,High MRR,75.5,-2.2,54.2,Medium Risk
+59,SaaS_Client_059,Enterprise,1049,Active,48.1,Low MRR,75.5,3.3,54.4,Low Risk
+247,SaaS_Client_247,Enterprise,3896,Active,39.1,Medium MRR,75.3,4.0,54.5,Low Risk
+220,SaaS_Client_220,Enterprise,3238,Active,87.5,Medium MRR,77.3,-6.0,54.5,High Risk
+21,SaaS_Client_021,Enterprise,818,Active,52.8,Low MRR,76.0,-14.4,54.6,Low Risk
+158,SaaS_Client_158,Enterprise,7139,Active,32.4,High MRR,75.2,4.7,54.7,Low Risk
+249,SaaS_Client_249,Enterprise,4956,Active,29.7,Medium MRR,75.1,12.6,54.7,Low Risk
+22,SaaS_Client_022,Enterprise,3862,Active,20.0,Medium MRR,74.7,-12.8,54.7,Low Risk
+115,SaaS_Client_115,Enterprise,2031,Active,61.3,Medium MRR,76.6,2.4,54.8,Medium Risk
+107,SaaS_Client_107,Enterprise,2404,Active,39.0,Medium MRR,75.7,5.3,54.8,Low Risk
+55,SaaS_Client_055,Enterprise,4574,Active,34.4,Medium MRR,75.6,3.0,54.9,Low Risk
+172,SaaS_Client_172,Enterprise,5589,Active,12.4,High MRR,74.8,-0.7,55.0,Low Risk
+123,SaaS_Client_123,Enterprise,4604,Active,47.3,Medium MRR,76.3,-2.3,55.0,Low Risk
+35,SaaS_Client_035,Enterprise,5129,Active,20.0,High MRR,75.2,0.0,55.0,Low Risk
+163,SaaS_Client_163,Enterprise,4710,Active,48.0,Medium MRR,76.3,4.0,55.0,Low Risk
+166,SaaS_Client_166,Enterprise,5384,Active,47.1,High MRR,76.5,11.0,55.1,Low Risk
+122,SaaS_Client_122,Enterprise,1393,Active,9.6,Low MRR,74.9,1.5,55.1,Low Risk
+10,SaaS_Client_010,Enterprise,4044,Active,59.2,Medium MRR,76.9,9.1,55.1,Medium Risk
+5,SaaS_Client_005,Enterprise,6275,Active,12.5,High MRR,75.1,9.6,55.2,Low Risk
+87,SaaS_Client_087,Enterprise,1742,Active,37.0,Medium MRR,76.2,-1.4,55.2,Low Risk
+112,SaaS_Client_112,Enterprise,6872,Active,50.0,High MRR,76.9,3.8,55.3,Medium Risk
+188,SaaS_Client_188,Enterprise,5288,Active,35.7,High MRR,76.4,4.2,55.4,Low Risk
+142,SaaS_Client_142,Enterprise,6104,Active,35.0,High MRR,76.5,3.7,55.5,Low Risk
+178,SaaS_Client_178,Enterprise,6758,Active,50.0,High MRR,77.1,-3.6,55.5,Medium Risk
+74,SaaS_Client_074,Enterprise,1024,Active,66.4,Low MRR,77.9,1.5,55.5,Low Risk
+250,SaaS_Client_250,Enterprise,2430,Active,29.6,Medium MRR,76.3,2.2,55.5,Low Risk
+81,SaaS_Client_081,Enterprise,606,Active,55.8,Low MRR,77.7,3.0,55.7,Low Risk
+153,SaaS_Client_153,Enterprise,7766,Active,50.0,High MRR,77.4,-7.1,55.7,Medium Risk
+160,SaaS_Client_160,Enterprise,6305,Active,16.3,High MRR,76.1,5.6,55.8,Low Risk
+71,SaaS_Client_071,Enterprise,1960,Active,50.0,Medium MRR,77.5,2.4,55.8,Medium Risk
+135,SaaS_Client_135,Enterprise,7247,Active,16.9,High MRR,76.5,-2.2,56.0,Low Risk
+69,SaaS_Client_069,Enterprise,6474,Active,52.7,High MRR,78.3,14.8,56.2,Medium Risk
+161,SaaS_Client_161,Enterprise,3502,Active,22.3,Medium MRR,76.9,-11.3,56.2,Low Risk
+138,SaaS_Client_138,Enterprise,5703,Active,42.0,High MRR,78.1,2.2,56.4,Low Risk
+157,SaaS_Client_157,Enterprise,5042,Active,12.1,High MRR,76.9,-10.7,56.5,Low Risk
+73,SaaS_Client_073,Enterprise,3223,Active,6.6,Medium MRR,76.9,10.7,56.6,Low Risk
+80,SaaS_Client_080,Enterprise,5204,Active,31.3,High MRR,78.5,3.0,57.0,Low Risk
+82,SaaS_Client_082,Mid-Market,7728,Churned,70.4,High MRR,33.8,-44.0,24.5,
+217,SaaS_Client_217,Mid-Market,7997,Churned,71.5,High MRR,34.5,6.9,25.0,
+83,SaaS_Client_083,Mid-Market,1500,Churned,47.2,Medium MRR,34.3,-33.3,25.6,
+50,SaaS_Client_050,Mid-Market,4802,Churned,64.9,Medium MRR,35.2,-23.8,25.7,
+169,SaaS_Client_169,Mid-Market,7742,Churned,48.6,High MRR,34.6,150.0,25.8,
+54,SaaS_Client_054,Mid-Market,1516,Churned,64.8,Medium MRR,35.8,-66.7,26.1,
+171,SaaS_Client_171,Mid-Market,7299,Churned,79.5,High MRR,37.1,4.9,26.6,
+66,SaaS_Client_066,Mid-Market,7090,Churned,58.3,High MRR,36.5,-9.3,26.8,
+88,SaaS_Client_088,Mid-Market,1224,Churned,74.0,Low MRR,37.6,-33.3,27.1,
+140,SaaS_Client_140,Mid-Market,677,Churned,56.7,Low MRR,37.0,-18.5,27.2,
+179,SaaS_Client_179,Mid-Market,1459,Churned,78.8,Low MRR,37.9,-45.2,27.2,
+109,SaaS_Client_109,Mid-Market,6541,Churned,32.8,High MRR,36.5,-25.0,27.6,
+216,SaaS_Client_216,Mid-Market,6490,Churned,42.0,High MRR,37.2,21.1,27.8,
+139,SaaS_Client_139,Mid-Market,3054,Churned,52.2,Medium MRR,38.0,-48.1,28.0,
+143,SaaS_Client_143,Mid-Market,5768,Churned,51.1,High MRR,38.1,18.5,28.1,
+97,SaaS_Client_097,Mid-Market,3956,Churned,67.6,Medium MRR,38.9,4.2,28.2,
+1,SaaS_Client_001,Mid-Market,3066,Churned,55.8,Medium MRR,38.7,-20.0,28.4,
+246,SaaS_Client_246,Mid-Market,1834,Active,51.9,Medium MRR,70.4,10.8,50.7,Medium Risk
+92,SaaS_Client_092,Mid-Market,1723,Active,51.9,Medium MRR,71.1,7.9,51.2,Medium Risk
+232,SaaS_Client_232,Mid-Market,3057,Active,58.4,Medium MRR,72.3,-10.1,51.9,Medium Risk
+154,SaaS_Client_154,Mid-Market,3589,Active,44.4,Medium MRR,71.9,9.0,52.0,Low Risk
+113,SaaS_Client_113,Mid-Market,1247,Active,24.9,Low MRR,71.4,-4.4,52.2,Low Risk
+177,SaaS_Client_177,Mid-Market,2193,Active,68.8,Medium MRR,73.3,-11.3,52.2,Medium Risk
+48,SaaS_Client_048,Mid-Market,6288,Active,62.5,High MRR,73.0,4.4,52.2,Medium Risk
+68,SaaS_Client_068,Mid-Market,4701,Active,41.8,Medium MRR,72.2,-0.7,52.3,Low Risk
+223,SaaS_Client_223,Mid-Market,7532,Active,29.4,High MRR,71.8,-5.2,52.4,Low Risk
+90,SaaS_Client_090,Mid-Market,6826,Active,87.5,High MRR,74.6,22.5,52.6,High Risk
+78,SaaS_Client_078,Mid-Market,5581,Active,52.3,High MRR,73.4,15.0,52.8,Medium Risk
+218,SaaS_Client_218,Mid-Market,4162,Active,49.1,Medium MRR,73.7,6.9,53.1,Low Risk
+129,SaaS_Client_129,Mid-Market,816,Active,43.2,Low MRR,74.0,0.0,53.5,Low Risk
+241,SaaS_Client_241,Mid-Market,6484,Active,16.3,High MRR,73.0,5.4,53.6,Low Risk
+212,SaaS_Client_212,Mid-Market,6619,Active,31.3,High MRR,73.6,5.6,53.6,Low Risk
+42,SaaS_Client_042,Mid-Market,1696,Active,72.9,Medium MRR,75.5,-11.5,53.7,Medium Risk
+192,SaaS_Client_192,Mid-Market,3326,Active,35.0,Medium MRR,74.1,-5.7,53.8,Low Risk
+240,SaaS_Client_240,Mid-Market,3757,Active,41.3,Medium MRR,74.5,10.5,53.9,Low Risk
+106,SaaS_Client_106,Mid-Market,6982,Active,31.3,High MRR,74.0,13.5,53.9,Low Risk
+127,SaaS_Client_127,Mid-Market,1285,Active,56.9,Low MRR,75.2,-6.3,53.9,Low Risk
+9,SaaS_Client_009,Mid-Market,6501,Active,40.1,High MRR,74.6,14.5,54.0,Low Risk
+130,SaaS_Client_130,Mid-Market,7337,Active,41.5,High MRR,74.6,5.8,54.0,Low Risk
+147,SaaS_Client_147,Mid-Market,7695,Active,67.2,High MRR,75.9,-6.9,54.1,Medium Risk
+108,SaaS_Client_108,Mid-Market,2610,Active,47.1,Medium MRR,75.3,2.3,54.3,Low Risk
+208,SaaS_Client_208,Mid-Market,2530,Active,50.0,Medium MRR,75.5,-2.3,54.3,Medium Risk
+248,SaaS_Client_248,Mid-Market,3632,Active,69.5,Medium MRR,76.3,17.4,54.3,Medium Risk
+214,SaaS_Client_214,Mid-Market,4602,Active,68.5,Medium MRR,76.3,1.6,54.4,Medium Risk
+205,SaaS_Client_205,Mid-Market,7826,Active,37.6,High MRR,75.0,9.4,54.4,Low Risk
+64,SaaS_Client_064,Mid-Market,581,Active,73.1,Low MRR,76.7,-5.0,54.5,Low Risk
+136,SaaS_Client_136,Mid-Market,2888,Active,40.0,Medium MRR,75.3,4.5,54.5,Low Risk
+213,SaaS_Client_213,Mid-Market,2651,Active,47.8,Medium MRR,75.9,-12.9,54.7,Low Risk
+155,SaaS_Client_155,Mid-Market,2994,Active,75.0,Medium MRR,77.1,-4.2,54.7,High Risk
+186,SaaS_Client_186,Mid-Market,2571,Active,60.5,Medium MRR,76.5,10.3,54.7,Medium Risk
+99,SaaS_Client_099,Mid-Market,5356,Active,12.5,High MRR,74.5,2.4,54.8,Low Risk
+195,SaaS_Client_195,Mid-Market,2804,Active,31.3,Medium MRR,75.4,-0.7,54.8,Low Risk
+194,SaaS_Client_194,Mid-Market,5837,Active,42.5,High MRR,75.9,-4.5,54.9,Low Risk
+144,SaaS_Client_144,Mid-Market,4418,Active,57.4,Medium MRR,76.7,4.0,55.0,Medium Risk
+38,SaaS_Client_038,Mid-Market,7805,Active,6.6,High MRR,74.5,4.8,55.0,Low Risk
+72,SaaS_Client_072,Mid-Market,4984,Active,51.9,Medium MRR,76.7,9.7,55.1,Medium Risk
+201,SaaS_Client_201,Mid-Market,657,Active,60.5,Low MRR,77.1,2.2,55.2,Low Risk
+65,SaaS_Client_065,Mid-Market,5347,Active,25.4,High MRR,75.9,6.3,55.4,Low Risk
+159,SaaS_Client_159,Mid-Market,3008,Active,18.2,Medium MRR,75.6,-6.9,55.4,Low Risk
+222,SaaS_Client_222,Mid-Market,5071,Active,35.0,High MRR,76.3,13.0,55.4,Low Risk
+189,SaaS_Client_189,Mid-Market,2963,Active,12.1,Medium MRR,75.6,-12.4,55.6,Low Risk
+12,SaaS_Client_012,Mid-Market,1533,Active,31.1,Medium MRR,76.7,-9.0,55.8,Low Risk
+75,SaaS_Client_075,Mid-Market,3387,Active,42.4,Medium MRR,77.4,9.9,55.9,Low Risk
+60,SaaS_Client_060,Mid-Market,6275,Active,45.3,High MRR,77.7,-0.8,56.0,Low Risk
+164,SaaS_Client_164,Mid-Market,4668,Active,62.5,Medium MRR,78.6,-2.2,56.1,Medium Risk
+245,SaaS_Client_245,Mid-Market,1736,Active,25.3,Medium MRR,77.0,-3.9,56.1,Low Risk
+137,SaaS_Client_137,Mid-Market,5874,Active,14.3,High MRR,76.6,1.5,56.2,Low Risk
+182,SaaS_Client_182,Mid-Market,6164,Active,38.8,High MRR,77.9,2.3,56.4,Low Risk
+244,SaaS_Client_244,Mid-Market,665,Active,29.9,Low MRR,77.7,0.8,56.5,Low Risk
+58,SaaS_Client_058,Mid-Market,5989,Active,12.5,High MRR,76.9,13.0,56.5,Low Risk
+14,SaaS_Client_014,Mid-Market,774,Active,31.0,Low MRR,77.9,0.7,56.6,Low Risk
+146,SaaS_Client_146,Mid-Market,2807,Active,31.3,Medium MRR,77.9,-15.7,56.6,Low Risk
+206,SaaS_Client_206,Mid-Market,3395,Active,13.0,Medium MRR,77.2,4.4,56.6,Low Risk
+98,SaaS_Client_098,Mid-Market,2298,Active,37.5,Medium MRR,78.2,-3.0,56.6,Low Risk
+120,SaaS_Client_120,Mid-Market,7078,Active,12.1,High MRR,77.2,6.9,56.7,Low Risk
+103,SaaS_Client_103,Mid-Market,4795,Active,40.0,Medium MRR,79.1,-2.3,57.2,Low Risk
+226,SaaS_Client_226,Mid-Market,1094,Active,61.9,Low MRR,80.3,-0.8,57.4,Low Risk
+15,SaaS_Client_015,Mid-Market,4738,Active,6.6,Medium MRR,78.2,0.8,57.5,Low Risk
+242,SaaS_Client_242,Mid-Market,1554,Active,50.0,Medium MRR,80.1,-1.5,57.6,Medium Risk
+210,SaaS_Client_210,SMB,2690,Churned,55.3,Medium MRR,33.8,-24.4,25.0,
+174,SaaS_Client_174,SMB,3044,Churned,64.5,Medium MRR,35.1,-20.0,25.6,
+234,SaaS_Client_234,SMB,2971,Churned,63.1,Medium MRR,35.0,-18.6,25.6,
+197,SaaS_Client_197,SMB,6088,Churned,72.9,High MRR,36.3,-33.3,26.2,
+203,SaaS_Client_203,SMB,6377,Churned,53.0,High MRR,35.8,-13.6,26.5,
+16,SaaS_Client_016,SMB,6913,Churned,61.7,High MRR,36.7,-13.5,26.8,
+145,SaaS_Client_145,SMB,5945,Churned,70.3,High MRR,37.2,22.2,26.9,
+36,SaaS_Client_036,SMB,1159,Churned,79.4,Low MRR,37.8,-48.1,27.1,
+229,SaaS_Client_229,SMB,4141,Churned,71.2,Medium MRR,37.6,58.3,27.2,
+13,SaaS_Client_013,SMB,7122,Churned,42.9,High MRR,36.7,-2.6,27.4,
+93,SaaS_Client_093,SMB,3931,Churned,54.8,Medium MRR,37.7,-27.5,27.7,
+191,SaaS_Client_191,SMB,6179,Churned,59.1,High MRR,37.8,28.2,27.7,
+204,SaaS_Client_204,SMB,6826,Churned,63.1,High MRR,38.1,-5.0,27.8,
+126,SaaS_Client_126,SMB,2871,Churned,48.8,Medium MRR,38.0,-40.0,28.1,
+173,SaaS_Client_173,SMB,3163,Churned,48.8,Medium MRR,38.1,-31.1,28.2,
+118,SaaS_Client_118,SMB,520,Churned,75.0,Low MRR,40.4,-35.4,29.0,
+193,SaaS_Client_193,SMB,988,Churned,52.1,Low MRR,42.4,-10.9,31.1,
+89,SaaS_Client_089,SMB,7979,Active,51.9,High MRR,71.9,-3.9,51.8,Medium Risk
+2,SaaS_Client_002,SMB,6801,Active,12.5,High MRR,70.7,-6.3,52.1,Low Risk
+105,SaaS_Client_105,SMB,6842,Active,87.5,High MRR,74.1,-11.0,52.2,High Risk
+133,SaaS_Client_133,SMB,7002,Active,58.6,High MRR,72.9,-14.1,52.3,Medium Risk
+200,SaaS_Client_200,SMB,6541,Active,50.0,High MRR,72.6,8.8,52.3,Medium Risk
+224,SaaS_Client_224,SMB,7141,Active,46.9,High MRR,72.9,2.2,52.6,Low Risk
+235,SaaS_Client_235,SMB,7386,Active,51.9,High MRR,73.2,1.5,52.7,Medium Risk
+170,SaaS_Client_170,SMB,4846,Active,87.5,Medium MRR,74.7,-0.7,52.7,High Risk
+96,SaaS_Client_096,SMB,2410,Active,32.5,Medium MRR,72.6,-12.4,52.8,Low Risk
+190,SaaS_Client_190,SMB,7900,Active,38.4,High MRR,73.1,2.2,53.0,Low Risk
+199,SaaS_Client_199,SMB,4027,Active,12.5,Medium MRR,71.9,0.8,53.0,Low Risk
+23,SaaS_Client_023,SMB,2361,Active,16.3,Medium MRR,72.1,-9.9,53.0,Low Risk
+237,SaaS_Client_237,SMB,4028,Active,47.1,Medium MRR,73.6,9.0,53.1,Low Risk
+156,SaaS_Client_156,SMB,5606,Active,40.0,High MRR,73.3,2.4,53.1,Low Risk
+4,SaaS_Client_004,SMB,1285,Active,49.6,Low MRR,73.8,9.2,53.2,Low Risk
+29,SaaS_Client_029,SMB,3312,Active,31.7,Medium MRR,73.1,-3.9,53.2,Low Risk
+119,SaaS_Client_119,SMB,2703,Active,33.9,Medium MRR,73.3,21.8,53.3,Low Risk
+44,SaaS_Client_044,SMB,5804,Active,55.6,High MRR,74.3,-3.2,53.3,Medium Risk
+94,SaaS_Client_094,SMB,4230,Active,54.6,Medium MRR,74.3,-5.5,53.4,Medium Risk
+162,SaaS_Client_162,SMB,1973,Active,37.4,Medium MRR,73.6,2.2,53.4,Low Risk
+47,SaaS_Client_047,SMB,3174,Active,87.5,Medium MRR,75.7,6.0,53.4,High Risk
+111,SaaS_Client_111,SMB,3374,Active,87.5,Medium MRR,75.7,20.5,53.4,High Risk
+43,SaaS_Client_043,SMB,3155,Active,15.3,Medium MRR,73.1,0.0,53.7,Low Risk
+40,SaaS_Client_040,SMB,6345,Active,56.0,High MRR,74.8,16.1,53.7,Medium Risk
+238,SaaS_Client_238,SMB,5012,Active,20.0,High MRR,73.5,17.1,53.8,Low Risk
+56,SaaS_Client_056,SMB,654,Active,49.8,Low MRR,74.7,30.6,53.8,Low Risk
+167,SaaS_Client_167,SMB,3137,Active,49.2,Medium MRR,74.8,0.8,53.9,Low Risk
+180,SaaS_Client_180,SMB,4432,Active,52.8,Medium MRR,75.0,12.4,53.9,Medium Risk
+3,SaaS_Client_003,SMB,3150,Active,52.6,Medium MRR,74.9,6.8,53.9,Medium Risk
+128,SaaS_Client_128,SMB,2381,Active,16.4,Medium MRR,73.4,-3.0,53.9,Low Risk
+37,SaaS_Client_037,SMB,4305,Active,35.0,Medium MRR,74.4,-12.6,54.0,Low Risk
+221,SaaS_Client_221,SMB,829,Active,35.0,Low MRR,74.5,-3.8,54.1,Low Risk
+77,SaaS_Client_077,SMB,5267,Active,55.1,High MRR,75.5,-3.5,54.2,Medium Risk
+124,SaaS_Client_124,SMB,2461,Active,12.4,Medium MRR,73.7,-8.2,54.2,Low Risk
+187,SaaS_Client_187,SMB,1374,Active,50.0,Low MRR,75.4,12.8,54.3,Low Risk
+184,SaaS_Client_184,SMB,5618,Active,29.6,High MRR,74.9,18.5,54.5,Low Risk
+117,SaaS_Client_117,SMB,4409,Active,31.1,Medium MRR,75.0,16.1,54.6,Low Risk
+11,SaaS_Client_011,SMB,2121,Active,6.6,Medium MRR,74.1,-8.3,54.7,Low Risk
+236,SaaS_Client_236,SMB,2469,Active,23.0,Medium MRR,74.9,-13.6,54.7,Low Risk
+181,SaaS_Client_181,SMB,714,Active,20.0,Low MRR,74.7,10.0,54.7,Low Risk
+165,SaaS_Client_165,SMB,2151,Active,12.5,Medium MRR,74.5,-9.2,54.8,Low Risk
+25,SaaS_Client_025,SMB,4541,Active,19.1,Medium MRR,75.0,1.4,54.9,Low Risk
+196,SaaS_Client_196,SMB,7459,Active,27.6,High MRR,75.4,3.6,55.0,Low Risk
+53,SaaS_Client_053,SMB,4358,Active,12.5,Medium MRR,75.0,-3.1,55.1,Low Risk
+7,SaaS_Client_007,SMB,1202,Active,12.5,Low MRR,75.0,12.3,55.1,Low Risk
+6,SaaS_Client_006,SMB,4743,Active,50.0,Medium MRR,76.6,2.2,55.1,Medium Risk
+239,SaaS_Client_239,SMB,5105,Active,10.4,High MRR,75.0,-5.2,55.2,Low Risk
+17,SaaS_Client_017,SMB,7940,Active,6.6,High MRR,74.9,5.9,55.2,Low Risk
+91,SaaS_Client_091,SMB,4081,Active,50.0,Medium MRR,76.9,3.1,55.3,Medium Risk
+209,SaaS_Client_209,SMB,961,Active,21.8,Low MRR,75.8,28.5,55.4,Low Risk
+219,SaaS_Client_219,SMB,5655,Active,73.8,High MRR,78.0,8.1,55.4,Medium Risk
+34,SaaS_Client_034,SMB,2237,Active,49.8,Medium MRR,77.2,-1.6,55.5,Low Risk
+225,SaaS_Client_225,SMB,6426,Active,35.4,High MRR,76.5,-0.7,55.5,Low Risk
+243,SaaS_Client_243,SMB,942,Active,73.8,Low MRR,78.3,11.1,55.6,Low Risk
+31,SaaS_Client_031,SMB,6070,Active,18.2,High MRR,76.1,1.5,55.7,Low Risk
+57,SaaS_Client_057,SMB,888,Active,20.0,Low MRR,76.1,-5.8,55.7,Low Risk
+207,SaaS_Client_207,SMB,6883,Active,40.2,High MRR,77.1,18.9,55.8,Low Risk
+20,SaaS_Client_020,SMB,3785,Active,29.9,Medium MRR,76.7,11.2,55.8,Low Risk
+27,SaaS_Client_027,SMB,6923,Active,49.9,High MRR,77.6,-3.8,55.8,Low Risk
+51,SaaS_Client_051,SMB,2976,Active,36.1,Medium MRR,77.2,18.6,56.0,Low Risk
+49,SaaS_Client_049,SMB,1982,Active,45.5,Medium MRR,77.7,-1.5,56.0,Low Risk
+134,SaaS_Client_134,SMB,2979,Active,34.9,Medium MRR,77.2,6.3,56.0,Low Risk
+52,SaaS_Client_052,SMB,6028,Active,17.5,High MRR,76.5,19.0,56.0,Low Risk
+33,SaaS_Client_033,SMB,2214,Active,50.0,Medium MRR,77.8,19.0,56.0,Medium Risk
+211,SaaS_Client_211,SMB,3555,Active,16.3,Medium MRR,76.5,-6.8,56.1,Low Risk
+95,SaaS_Client_095,SMB,6189,Active,12.5,High MRR,76.4,-2.1,56.1,Low Risk
+84,SaaS_Client_084,SMB,6527,Active,27.5,High MRR,77.2,2.9,56.2,Low Risk
+176,SaaS_Client_176,SMB,7480,Active,26.2,High MRR,77.5,0.8,56.5,Low Risk
+102,SaaS_Client_102,SMB,4380,Active,53.8,Medium MRR,79.5,14.8,57.0,Medium Risk
+76,SaaS_Client_076,SMB,1168,Active,29.4,Low MRR,78.5,-3.6,57.1,Low Risk
+18,SaaS_Client_018,SMB,1252,Active,48.5,Low MRR,80.0,-5.7,57.5,Low Risk
+125,SaaS_Client_125,SMB,7198,Active,26.8,High MRR,81.6,-3.4,59.3,Low Risk

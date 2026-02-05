@@ -1,4 +1,3 @@
-#!/usr/bin/env python
 import pandas as pd
 import os
 import nltk
@@ -17,7 +16,7 @@ new_words = {
 analyzer.lexicon.update(new_words)
 
 def process_sentiment():
-    data_dir = r"C:\Users\uduok\git_folder\SaaS_Churn_Prediction\data"
+    data_dir = r"C:\Users\uduok\git_folder\SaaS_Churn_Prediction\data\raw"
     df = pd.read_csv(os.path.join(data_dir, 'fact_support_tickets.csv'))
 
     # calculate Sentiment with tuned Lexicon

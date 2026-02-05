@@ -66,3 +66,15 @@ pytest.ini
 
 # pyre
 .pyre/
+
+# Security: NEVER upload your service account key
+config/*.json
+
+# Python artifacts
+__pycache__/
+.ipynb_checkpoints/
+.env
+
+# Large data (unless they are small sample CSVs)
+data/raw/*.csv
+!data/raw/sample_customers.csv
