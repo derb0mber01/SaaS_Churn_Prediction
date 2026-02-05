@@ -1,15 +1,10 @@
-<<<<<<< HEAD
 # SaaS\_Churn\_Prediction \& Revenue Recovery
-=======
+
 # SaaS Revenue Retention
 
 <img width="1203" height="705" alt="image" src="https://github.com/user-attachments/assets/f7621311-a92f-48cd-8818-42af5b255b92" />
 
 Churn &amp; Revenue Analysis for Customer Retention in a Fast Growing SaaS Startup
->>>>>>> 05e7743759086249472f391f1a7bf380bdc0a17a
-
-Early-Warning System for Customer Retention in a Fast Growing B2B SaaS Startup
-
 
 
 Problem Statement:
