@@ -1,4 +1,4 @@
-# SaaS\Churn\Prediction \& Revenue Recovery
+# SaaS Churn Prediction & Revenue Recovery
 
 
 <img width="1203" height="705" alt="image" src="https://github.com/user-attachments/assets/f7621311-a92f-48cd-8818-42af5b255b92" />
