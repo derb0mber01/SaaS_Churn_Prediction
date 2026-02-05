@@ -3,7 +3,7 @@
 
 <img width="1200" height="750" alt="image" src="https://github.com/user-attachments/assets/f7621311-a92f-48cd-8818-42af5b255b92" />
 
-### Early &amp; Warning System for Customer Retention in a Fast Growing B2B SaaS Startup
+### Early Warning System for Customer Retention in a Fast Growing B2B SaaS Startup
 
 
 ## Problem Statement:
