@@ -67,6 +67,7 @@ pytest.ini
 # pyre
 .pyre/
 
+<<<<<<< HEAD
 # Security: NEVER upload your service account key
 config/*.json
 
@@ -78,3 +79,12 @@ __pycache__/
 # Large data (unless they are small sample CSVs)
 data/raw/*.csv
 !data/raw/sample_customers.csv
+=======
+# Google Cloud Service Account Keys
+*.json
+
+# Slack
+.env
+
+
+>>>>>>> 05e7743759086249472f391f1a7bf380bdc0a17a
